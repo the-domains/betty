@@ -1,0 +1,28 @@
+name: betty
+favicon: null
+layout_spectrum: 0.5356704727746546
+typography_spectrum: 0.32523591932840645
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.0009557248558849096
+  lightness: 0.3777758914511651
+  saturation: 0.8423802440520376
+  rhythmicContrast: 0.8549237477127463
+purpose: []
