@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[betty]]></title>
         <description><![CDATA[betty]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/betty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 23:58:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 00:01:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/betty/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Good Friends]]></title>
+            <description><![CDATA[<article><h1>Good Friends</h1><p>Precious Mems</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/018c5554-c37b-4bc5-ad71-a23ebc6c262b.jpg"></article>]]></description>
+            <link>https://source.unsplash.com/random</link>
+            <guid isPermaLink="false">6d0d9119-8370-43a7-83e4-0eb4dfc68d28</guid>
+            <pubDate>Sat, 23 Apr 2016 00:01:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Snuggler! | Tim and Eric Awesome Show, Great Job! | Adult Swim]]></title>
             <description><![CDATA[<article><h1>The Snuggler! | Tim and Eric Awesome Show, Great Job! | Adult Swim</h1><p>Tairy Greene is the Snuggler, and he's here to snuggle with you. SUBSCRIBE: http://bit.ly/AdultSwimSubscribe About Tim and Eric Awesome Show, Great Job!: Tim and Eric Awesome Show, Great Job! is Adult Swim's number one gross-out comedy fever dream viewing experience. Tim Heidecker and Eric Wareheim are joined by special guests John C.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b508baec78e379c22dc3875b67f1c52321b3866c.jpg"></article>]]></description>
