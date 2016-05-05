@@ -4,8 +4,15 @@
         <description><![CDATA[betty]]></description>
         <link>https://thegrid.ai/betty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 19:27:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 19:30:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/betty/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[betty goes places]]></title>
+            <description><![CDATA[<article><h1>betty goes places</h1><p>An internet diary or something.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8094ad24-eee6-4130-983b-1699f68e1bfc.jpg"></article>]]></description>
+            <link>https://thegrid.ai/betty/betty-goes-places/index.html</link>
+            <guid isPermaLink="false">9e247118-d8e5-4823-a22f-8f4db5005095</guid>
+            <pubDate>Thu, 05 May 2016 19:30:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8094ad24-eee6-4130-983b-1699f68e1bfc.jpg">]]></description>
