@@ -1,7 +1,7 @@
 ---
 description: ''
-dateModified: '2016-05-05T20:00:20.293Z'
-datePublished: '2016-05-05T20:00:20.394Z'
+dateModified: '2016-05-05T20:03:48.640Z'
+datePublished: '2016-05-05T20:03:58.094Z'
 title: 'A L W A Y S & F O R E V E R'
 author: []
 sourcePath: _posts/2016-05-05-a-l-w-a-y-s-and-f-o-r-e-v-e-r.md
