@@ -1,11 +1,11 @@
 ---
 description: ''
-dateModified: '2016-05-05T19:54:33.048Z'
-datePublished: '2016-05-05T19:58:48.465Z'
+dateModified: '2016-05-05T20:00:20.293Z'
+datePublished: '2016-05-05T20:00:20.394Z'
 title: 'A L W A Y S & F O R E V E R'
 author: []
-starred: false
 sourcePath: _posts/2016-05-05-a-l-w-a-y-s-and-f-o-r-e-v-e-r.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -18,7 +18,7 @@ A L W A Y S & F O R E V E R
 
 As I prepare to leave PDX, the place I've been calling my own special prison for the last several months, I'm moved by some pretty important noticings.
 
-Portland is likely the best place to live in the US. As I think about how much of a struggle it'll be to get my groceries delivered, the spicy chai @Good Coffee, pre-mourn the bike riding joy the summer months bring, my sweet baby cats, and the good friends I'll miss --- I'm not gonna lie. I'm sad to leave.
+Portland is likely the best place to live in the US. As I think about how much of a struggle it'll be to get my groceries delivered, the spicy chai @GoodCoffeePDX, pre-mourn the bike riding joy the summer months bring, my sweet baby cats, and the good friends I'll miss --- I'm not gonna lie. I'm sad to leave.
 
 The past few months have been hugely stressful. Dealing with my hugest tax bill of all time, a job that no longer made me feel valued, cat health issues, crushing depression & anxiety, and a mysteriously lost passport, I'm seriously looking forward to snuggling down with Frank and trying not to get too fat on potatoes with a side of potatoes.
 
