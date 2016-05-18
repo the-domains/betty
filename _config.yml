@@ -1,28 +1,40 @@
-typography_spectrum: 0.17814499139785767
-color:
-  brandColors:
-    - '#F9E4AD'
-    - '#E6B098'
-    - '#CC4452'
-    - '#723147'
-    - '#31152B'
-  brandStrength: 0.8824322631116956
-  lightness: 0.28047843067906797
-  saturation: 0.14936216035857797
-  rhythmicContrast: 0.9122576429508626
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.6493211654014885
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
+color:
+  saturation: 0.8423802440520376
+  brandStrength: 0.0009557248558849096
+  rhythmicContrast: 0.8549237477127463
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  lightness: 0.3777758914511651
+typography_spectrum: 1
+layout_spectrum: 0.9650913
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 name: betty
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-purpose: []
