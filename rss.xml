@@ -4,7 +4,7 @@
         <description><![CDATA[betty]]></description>
         <link>https://thegrid.ai/betty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 17:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 17:28:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/betty/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[betty goes places]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/betty/betty-goes-places/index.html</link>
             <guid isPermaLink="false">9e247118-d8e5-4823-a22f-8f4db5005095</guid>
             <pubDate>Thu, 05 May 2016 19:30:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hankie is the Cat of Dreams]]></title>
+            <description><![CDATA[<article><h1>Hankie is the Cat of Dreams</h1><p>Stuff and things blah blah blah</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a32aa2167f08b881eaf073759a5c7f4ee95550ae.png"></article>]]></description>
+            <link>https://thegrid.ai/snuggler/</link>
+            <guid isPermaLink="false">1a44c7db-6514-46a9-90a4-cb3e6a820e9a</guid>
+            <pubDate>Wed, 18 May 2016 17:28:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hankie is the Cat of Dreams]]></title>
