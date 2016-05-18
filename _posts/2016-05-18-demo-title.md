@@ -1,11 +1,11 @@
 ---
 description: 'Test text. '
-dateModified: '2016-05-18T16:49:29.345Z'
-datePublished: '2016-05-18T16:49:29.421Z'
+dateModified: '2016-05-18T16:49:52.145Z'
+datePublished: '2016-05-18T16:49:52.219Z'
 title: Demo Title
 author: []
-starred: false
 sourcePath: _posts/2016-05-18-demo-title.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
