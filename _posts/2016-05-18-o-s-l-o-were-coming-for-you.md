@@ -1,7 +1,7 @@
 ---
 description: 'I’m enjoying myself and getting accustomed to this normal existence in Dublin for a little while. Paris was great this time around (I think this was my 3rd time...). I finally went to the Louvre, which while my typically curmudgeonly attitude will turn her nose up at touristy things, it’s nice to remember that that shit is pretty awesome to see! I could have spent a lot more time Louvre-ing, but alas it closed early on Sunday and I didn’t get to see as much of the ancient stuff as I’d have liked to. Next time I’ll be bee-lining to the Egyptian and Islamic artifacts and mostly skipping the galleries of paintings.'
-dateModified: '2016-05-18T13:15:06.566Z'
-datePublished: '2016-05-18T13:15:06.631Z'
+dateModified: '2016-05-18T13:15:18.323Z'
+datePublished: '2016-05-18T13:15:18.380Z'
 title: "O S L O we're coming for you."
 author: []
 sourcePath: _posts/2016-05-18-o-s-l-o-were-coming-for-you.md
