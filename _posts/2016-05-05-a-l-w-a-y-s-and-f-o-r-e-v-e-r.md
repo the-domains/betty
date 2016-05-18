@@ -1,7 +1,7 @@
 ---
-description: 'As I prepare to leave PDX, the place I’ve been calling my own special prison for the last several months, I’m moved by some pretty important noticings.'
-dateModified: '2016-05-18T13:42:54.056Z'
-datePublished: '2016-05-18T13:42:54.114Z'
+description: 'May 1st, 2016'
+dateModified: '2016-05-18T13:53:40.523Z'
+datePublished: '2016-05-18T13:53:40.649Z'
 title: 'A L W A Y S & F O R E V E R'
 author: []
 sourcePath: _posts/2016-05-05-a-l-w-a-y-s-and-f-o-r-e-v-e-r.md
@@ -14,7 +14,7 @@ _type: MediaObject
 ---
 # A L W A Y S & F O R E V E R
 
-# May 1st, 2016
+May 1st, 2016
 
 As I prepare to leave PDX, the place I've been calling my own special prison for the last several months, I'm moved by some pretty important noticings.
 
