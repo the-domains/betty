@@ -21,18 +21,18 @@ collections:
       path: '/:title/'
 purpose: []
 color:
-  saturation: 0.8423802440520376
-  brandStrength: 0.0009557248558849096
-  rhythmicContrast: 0.8549237477127463
+  saturation: 0.45126487757079303
+  brandStrength: 0.6301997944246978
+  rhythmicContrast: 0.3892187913879752
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  lightness: 0.3777758914511651
-typography_spectrum: 1
-layout_spectrum: 0.5322234
+    - '#F9E4AD'
+    - '#E6B098'
+    - '#CC4452'
+    - '#723147'
+    - '#31152B'
+  lightness: 0.39841181016527116
+typography_spectrum: 0.18396843178197742
+layout_spectrum: 0.7101638002786785
 analytics:
   twitter: null
   google: null
