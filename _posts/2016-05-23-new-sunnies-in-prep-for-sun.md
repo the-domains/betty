@@ -1,7 +1,7 @@
 ---
 description: 'The weather in this nook of the world is so crazy. It’s midwestern weather x100000. It’ll be warm and sunny for 20 min, then it’ll downpour for 30 min, then it’ll be hot and breezy, then you’ll need a winter coat, then the streets will be flooded.'
-dateModified: '2016-05-23T17:56:12.735Z'
-datePublished: '2016-05-23T17:56:12.870Z'
+dateModified: '2016-05-23T17:55:53.652Z'
+datePublished: '2016-05-23T17:59:05.536Z'
 title: 'New Sunnies in Prep for Sun? '
 author: []
 starred: false
