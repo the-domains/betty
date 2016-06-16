@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-16T11:09:09.514Z'
+datePublished: '2016-06-16T11:09:13.131Z'
 sourcePath: _posts/2016-06-16-betty-updates.md
 isBasedOnUrl: 'http://eepurl.com/b54cFH'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-16T11:09:04.244Z'
+dateModified: '2016-06-16T11:09:12.523Z'
 title: Sign Up for Betty Updates
 app_links: []
 publisher:
@@ -14,7 +14,7 @@ publisher:
   favicon: null
   domain: eepurl.com
 description: Betty Updates Email Forms
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
