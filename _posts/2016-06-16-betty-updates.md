@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-06-16T11:05:19.323Z'
+datePublished: '2016-06-16T11:09:09.514Z'
 sourcePath: _posts/2016-06-16-betty-updates.md
 isBasedOnUrl: 'http://eepurl.com/b54cFH'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-16T11:05:09.909Z'
-title: Betty Updates
+dateModified: '2016-06-16T11:09:04.244Z'
+title: Sign Up for Betty Updates
 app_links: []
 publisher:
   url: 'http://thegrid.us13.list-manage2.com'
@@ -22,4 +22,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Betty Updates</h1></article>
+<article style=""><h1>Sign Up for Betty Updates</h1></article>
