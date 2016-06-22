@@ -1,25 +1,26 @@
-typography_spectrum: 0.17979797045700252
+typography_spectrum: 0.6903347647748888
 color:
   brandColors:
-    - '#F9E4AD'
-    - '#E6B098'
-    - '#CC4452'
-    - '#723147'
-    - '#31152B'
-  brandStrength: 0.9590498418547213
-  lightness: 0.6382027592044324
-  saturation: 0.9891545744612813
-  rhythmicContrast: 0.5681302577722818
+    - '#6C6E58'
+    - '#3E423A'
+    - '#417378'
+    - '#A4CFBE'
+    - '#F4F7D9'
+  brandStrength: 0.7505100602284074
+  lightness: 0.7687462884932756
+  saturation: 0.5488769703079015
+  rhythmicContrast: 0.40793983172625303
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.09795882599428296
+layout_spectrum: 0.8325871168635786
 analytics:
   google: UA-78956265-1
   facebook: null
   twitter: null
-name: "%3Cspan%20style%3D%22color%3A%20rgb(255%2C%20255%2C%20255)%3B%20font-family%3A%20'Poiret%20One'%3B%20font-size%3A%2068px%3B%20letter-spacing%3A%20normal%3B%20line-height%3A%2080px%3B%20text-align%3A%20center%3B%20background-color%3A%20rgb(0%2C%200%2C%200)%3B%22%3EB%E2%88%83TTY%E2%91%8ABAIR%3C%2Fspan%3E"
+name: >-
+  %3Cspan%20style%3D%22color%3A%20rgb(255%2C%20255%2C%20255)%3B%20font-family%3A%20'Poiret%20One'%3B%20font-size%3A%2068px%3B%20letter-spacing%3A%20normal%3B%20line-height%3A%2080px%3B%20text-align%3A%20center%3B%20background-color%3A%20rgb(0%2C%200%2C%200)%3B%22%3EB%E2%88%83TTY%E2%91%8ABAIR%3C%2Fspan%3E
 cta:
   domain: null
   bucket: null
