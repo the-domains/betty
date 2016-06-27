@@ -4,7 +4,7 @@
         <description><![CDATA[...]]></description>
         <link>https://thegrid.ai/betty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 13:26:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2016 13:26:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/betty/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[B≣TTʎ B⋀IR]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/betty/btt-bir/index.html</link>
             <guid isPermaLink="false">9e247118-d8e5-4823-a22f-8f4db5005095</guid>
             <pubDate>Thu, 16 Jun 2016 11:11:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Irish Countryside]]></title>
+            <description><![CDATA[<article><h1>The Irish Countryside</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/03fe70f5-ad34-475f-891e-388abf74335a.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/03fe70f5-ad34-475f-891e-388abf74335a.jpg</link>
+            <guid isPermaLink="false">c1831a1e-0f72-4d04-8cc3-40cf459f7412</guid>
+            <pubDate>Mon, 27 Jun 2016 13:25:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Traveling is sorta hard.]]></title>
