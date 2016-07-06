@@ -31,13 +31,13 @@ analytics:
   twitter: null
   google: UA-78956265-1
   facebook: null
-favicon: null
 name: >-
   %3Cspan%20style%3D%22color%3A%20rgb(255%2C%20255%2C%20255)%3B%20font-family%3A%20'Poiret%20One'%3B%20font-size%3A%2068px%3B%20letter-spacing%3A%20normal%3B%20line-height%3A%2080px%3B%20text-align%3A%20center%3B%20background-color%3A%20rgb(0%2C%200%2C%200)%3B%22%3EB%E2%88%83TTY%E2%91%8ABAIR%3C%2Fspan%3E
+favicon: null
 style: the-composer
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.8751098606735468
+typography_spectrum: 0.4108485
 layout_spectrum: 1
