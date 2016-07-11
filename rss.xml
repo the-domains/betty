@@ -4,7 +4,7 @@
         <description><![CDATA[...]]></description>
         <link>https://thegrid.ai/betty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 15:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2016 15:15:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/betty/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[travels w/ betty]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/betty/travels-with-betty/index.html</link>
             <guid isPermaLink="false">9e247118-d8e5-4823-a22f-8f4db5005095</guid>
             <pubDate>Fri, 08 Jul 2016 12:47:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Working at RoastedBrown in the ‘Hood]]></title>
+            <description><![CDATA[<article><h1>Working at RoastedBrown in the ‘Hood</h1><p>This is what happens when you stop being a weirdo, depressed hermit and leave the flat to work. An artist walked over to me while I sipped some coffee and sheepishly handed me this sketch of me working. I LOVE IT SO MUCH</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/47b255850f5ad0824e691108e146e25b/croprotate.jpg?cropheight=4032&cropwidth=3024&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F586ad577-7f1b-4317-b387-1da20d3c8a23.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/586ad577-7f1b-4317-b387-1da20d3c8a23.jpg</link>
+            <guid isPermaLink="false">545266f0-6c07-4a63-aec5-c6c0053fdff6</guid>
+            <pubDate>Mon, 11 Jul 2016 15:15:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[On being a Nomad]]></title>
