@@ -1,5 +1,32 @@
-title: null
-purpose: []
+typography_spectrum: 0.24630218255333602
+color:
+  saturation: 0.04564984
+  brandStrength: 0
+  lightness: 0.5687433
+  brandColors:
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
+  rhythmicContrast: 0.5118152
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.849087
+analytics:
+  twitter: null
+  google: UA-78956265-1
+  facebook: null
+name: >-
+  %3Cspan%20style%3D%22color%3A%20rgb(255%2C%20255%2C%20255)%3B%20font-family%3A%20'Poiret%20One'%3B%20font-size%3A%2068px%3B%20letter-spacing%3A%20normal%3B%20line-height%3A%2080px%3B%20text-align%3A%20center%3B%20background-color%3A%20rgb(0%2C%200%2C%200)%3B%22%3EB%E2%88%83TTY%E2%91%8ABAIR%3C%2Fspan%3E
+cta:
+  bucket: null
+  version: null
+  domain: null
+style: the-composer
+favicon: null
 collections:
   - index:
       path: /
@@ -12,32 +39,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.04564984
-  brandStrength: 0
-  lightness: 0.5687433
-  brandColors:
-    - '#7D8A2E'
-    - '#C9D787'
-    - '#FFFFFF'
-    - '#FFC0A9'
-    - '#FF8598'
-  rhythmicContrast: 0.5118152
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: UA-78956265-1
-  facebook: null
-favicon: null
-name: >-
-  %3Cspan%20style%3D%22color%3A%20rgb(255%2C%20255%2C%20255)%3B%20font-family%3A%20'Poiret%20One'%3B%20font-size%3A%2068px%3B%20letter-spacing%3A%20normal%3B%20line-height%3A%2080px%3B%20text-align%3A%20center%3B%20background-color%3A%20rgb(0%2C%200%2C%200)%3B%22%3EB%E2%88%83TTY%E2%91%8ABAIR%3C%2Fspan%3E
-style: the-composer
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.24630218255333602
-layout_spectrum: 0.849087
+title: null
+purpose: []
