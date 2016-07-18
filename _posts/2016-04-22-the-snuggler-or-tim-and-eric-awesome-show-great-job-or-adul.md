@@ -1,14 +1,7 @@
 ---
-author:
-  - name: Adult Swim
-    url: 'https://www.youtube.com/user/adultswim'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.google.com
+datePublished: '2016-07-18T10:19:12.995Z'
+sourcePath: >-
+  _posts/2016-04-22-the-snuggler-or-tim-and-eric-awesome-show-great-job-or-adul.md
 keywords:
   - swim
   - adult
@@ -20,8 +13,13 @@ keywords:
   - galifianakis
   - great
   - job
-description: "Tairy Greene is the Snuggler, and he's here to snuggle with you. SUBSCRIBE: http://bit.ly/AdultSwimSubscribe About Tim and Eric Awesome Show, Great Job!: Tim and Eric Awesome Show, Great Job! is Adult Swim's number one gross-out comedy fever dream viewing experience. Tim Heidecker and Eric Wareheim are joined by special guests John C."
-inLanguage: en
+related: []
+author:
+  - name: Adult Swim
+    url: 'https://www.youtube.com/user/adultswim'
+    avatar: {}
+dateModified: '2016-07-18T10:19:12.405Z'
+title: 'The Snuggler! | Tim and Eric Awesome Show, Great Job! | Adult Swim'
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=3DsUTW4MdtM&feature=applinks'
     type: ios
@@ -59,18 +57,23 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiHht33uKPMAhUL0mMKHTx_AakQ3ywIHTAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3DsUTW4MdtM&usg=AFQjCNGk9vq64C-Za-xw6jaZ4V0PyvhTuQ&sig2=Ym3cBrlHNVb6yjJ2ptIYNw&bvm=bv.120551593,d.cGc'
-title: 'The Snuggler! | Tim and Eric Awesome Show, Great Job! | Adult Swim'
-datePublished: '2016-04-22T23:58:13.363Z'
-dateModified: '2016-04-22T23:58:13.105Z'
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: www.google.com
+description: >-
+  Tairy Greene is the Snuggler, and he's here to snuggle with you. SUBSCRIBE:
+  http://bit.ly/AdultSwimSubscribe About Tim and Eric Awesome Show, Great Job!:
+  Tim and Eric Awesome Show, Great Job! is Adult Swim's number one gross-out
+  comedy fever dream viewing experience. Tim Heidecker and Eric Wareheim are
+  joined by special guests John C.
+inLanguage: en
+hasPage: true
 starred: false
-sourcePath: _posts/2016-04-22-the-snuggler-or-tim-and-eric-awesome-show-great-job-or-adul.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
-_type: VideoObject
+url: the-snuggler-or-tim-and-eric-awesome-show-great-job-or-adul/index.html
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F3DsUTW4MdtM%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3DsUTW4MdtM&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F3DsUTW4MdtM%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
