@@ -1,4 +1,4 @@
-typography_spectrum: 0.5660397233441472
+typography_spectrum: 0.24630218255333602
 color:
   saturation: 0.04564984
   brandStrength: 0
@@ -14,7 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.34822083078324795
+layout_spectrum: 0.849087
 analytics:
   twitter: null
   google: UA-78956265-1
@@ -26,6 +26,11 @@ cta:
   version: null
   domain: null
 style: the-composer
+navigation:
+  - id: f670666a-d194-4291-9053-931b5b787a88
+    url: 2016-06-02-kroll-show-spotted-ox-hostel.html
+    name: Videos
+    type: content
 favicon: null
 collections:
   - index:
