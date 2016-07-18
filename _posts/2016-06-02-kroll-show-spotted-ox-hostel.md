@@ -20,7 +20,11 @@ keywords:
   - publizity
   - yogurt
   - peele
-description: "Spotted Ox Hostel is the coolest hostel in all of Europe, and the owners will show you everything you've ever wanted to know about visiting the continent. The Comedy Central app has full episodes of your favorite shows available now. http://on.cc.com/1e85GN8"
+description: >-
+  Spotted Ox Hostel is the coolest hostel in all of Europe, and the owners will
+  show you everything you've ever wanted to know about visiting the continent.
+  The Comedy Central app has full episodes of your favorite shows available now.
+  http://on.cc.com/1e85GN8
 inLanguage: en
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=1YCOT5LasKc&feature=applinks'
@@ -59,15 +63,13 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=1YCOT5LasKc'
 title: Kroll Show - Spotted Ox Hostel
-datePublished: '2016-06-02T11:10:15.178Z'
-dateModified: '2016-06-02T11:09:57.873Z'
-starred: false
+datePublished: '2016-07-18T10:18:47.714Z'
+dateModified: '2016-07-18T10:18:47.197Z'
 sourcePath: _posts/2016-06-02-kroll-show-spotted-ox-hostel.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: kroll-show-spotted-ox-hostel/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
