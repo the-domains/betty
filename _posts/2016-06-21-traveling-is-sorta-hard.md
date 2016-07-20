@@ -6,8 +6,8 @@ description: >-
   nasty student loans, occasional crushing depression, anxiety about the stuff
   I’ve left behind in Portland, not the most amazing job security, but hey, I’ve
   got to see stuff in the past month that I never imagined I’d get to see or do.
-dateModified: '2016-07-20T13:32:05.707Z'
-datePublished: '2016-07-20T13:32:06.533Z'
+dateModified: '2016-07-20T13:32:41.841Z'
+datePublished: '2016-07-20T13:32:42.768Z'
 title: Traveling is sorta hard.
 author: []
 isBasedOnUrl: >-
@@ -35,7 +35,6 @@ I shouldn't complain, I should go with the flow, look at the bright side, all th
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3deb22e6-22df-47dd-9f75-230d35a3d598.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9006882-c2b0-400e-ba2c-41f6e6d6a42c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfa25ae9-0dd9-45c2-94e7-e16d80f5cf8e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7adccf77-2128-401f-b1b5-4041da95f2a4.jpg)
 
 Traveling is sorta hard.
 
