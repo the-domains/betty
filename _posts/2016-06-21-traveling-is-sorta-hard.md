@@ -1,7 +1,7 @@
 ---
-description: Tel Aviv Beach
-dateModified: '2016-07-20T13:33:15.272Z'
-datePublished: '2016-07-20T13:33:15.960Z'
+description: ''
+dateModified: '2016-07-20T13:36:09.518Z'
+datePublished: '2016-07-20T13:36:10.151Z'
 title: Traveling is sorta hard.
 author: []
 isBasedOnUrl: >-
