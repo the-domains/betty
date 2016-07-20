@@ -1,8 +1,8 @@
 ---
 description: ''
-dateModified: '2016-07-12T13:52:50.964Z'
-datePublished: '2016-07-12T13:52:57.778Z'
-title: T R A V E L S w// B E T T Y
+dateModified: '2016-07-20T13:27:24.720Z'
+datePublished: '2016-07-20T13:27:25.289Z'
+title: TRAVELs w// BETTY
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b1b3224-5ddf-4e9b-81ad-dd672474c0e2.jpg
@@ -16,4 +16,4 @@ _type: MediaObject
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b1b3224-5ddf-4e9b-81ad-dd672474c0e2.jpg)
 
-# T R A V E L S w// B E T T Y
+# TRAVELs w// BETTY
