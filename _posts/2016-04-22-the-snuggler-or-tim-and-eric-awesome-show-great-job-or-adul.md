@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-18T10:19:12.995Z'
+datePublished: '2016-07-20T13:23:22.931Z'
 sourcePath: >-
   _posts/2016-04-22-the-snuggler-or-tim-and-eric-awesome-show-great-job-or-adul.md
 keywords:
@@ -18,7 +18,7 @@ author:
   - name: Adult Swim
     url: 'https://www.youtube.com/user/adultswim'
     avatar: {}
-dateModified: '2016-07-18T10:19:12.405Z'
+dateModified: '2016-07-20T13:23:22.190Z'
 title: 'The Snuggler! | Tim and Eric Awesome Show, Great Job! | Adult Swim'
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=3DsUTW4MdtM&feature=applinks'
