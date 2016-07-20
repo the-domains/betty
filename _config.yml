@@ -25,7 +25,12 @@ cta:
   version: null
   domain: null
 style: the-composer
-navigation: []
+navigation:
+  - id: d0857391-046b-4f49-9d06-238933c505d4
+    url: >-
+      2016-04-22-the-snuggler-or-tim-and-eric-awesome-show-great-job-or-adul.html
+    name: Videos
+    type: content
 favicon: null
 collections:
   - index:
