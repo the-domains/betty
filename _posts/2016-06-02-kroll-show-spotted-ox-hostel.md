@@ -64,8 +64,8 @@ app_links:
     namespace: google
     type: ios
 title: Kroll Show - Spotted Ox Hostel
-datePublished: '2016-07-18T10:18:47.714Z'
-dateModified: '2016-07-18T10:18:47.197Z'
+datePublished: '2016-07-20T13:23:38.088Z'
+dateModified: '2016-07-20T13:23:37.122Z'
 sourcePath: _posts/2016-06-02-kroll-show-spotted-ox-hostel.md
 hasPage: true
 starred: false
