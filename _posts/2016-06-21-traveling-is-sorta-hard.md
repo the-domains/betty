@@ -6,8 +6,8 @@ description: >-
   nasty student loans, occasional crushing depression, anxiety about the stuff
   I’ve left behind in Portland, not the most amazing job security, but hey, I’ve
   got to see stuff in the past month that I never imagined I’d get to see or do.
-dateModified: '2016-07-20T13:31:51.577Z'
-datePublished: '2016-07-20T13:31:52.486Z'
+dateModified: '2016-07-20T13:32:05.707Z'
+datePublished: '2016-07-20T13:32:06.533Z'
 title: Traveling is sorta hard.
 author: []
 isBasedOnUrl: >-
@@ -38,7 +38,6 @@ I shouldn't complain, I should go with the flow, look at the bright side, all th
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7adccf77-2128-401f-b1b5-4041da95f2a4.jpg)
 
 Traveling is sorta hard.
-![Tel Aviv Beach](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4cfe7b1-11e0-4e38-907b-c03bdd50aa54.jpg)
 
 I've long romanticized travel as this amazing thing only the privileged get to do. As I've been bopping around the world with Frank for the past month, I totally realize how lucky of a human I am right now. Yeah, I may have some nasty student loans, occasional crushing depression, anxiety about the stuff I've left behind in Portland, not the most amazing job security, but hey, I've got to see stuff in the past month that I never imagined I'd get to see or do.
 
