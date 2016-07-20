@@ -31,6 +31,10 @@ navigation:
       2016-04-22-the-snuggler-or-tim-and-eric-awesome-show-great-job-or-adul.html
     name: Videos
     type: content
+  - id: f670666a-d194-4291-9053-931b5b787a88
+    url: 2016-06-02-kroll-show-spotted-ox-hostel.html
+    name: Videos
+    type: content
 favicon: null
 collections:
   - index:
