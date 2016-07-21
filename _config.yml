@@ -25,7 +25,11 @@ cta:
   version: null
   domain: null
 style: the-composer
-navigation: []
+navigation:
+  - id: www.bookeo.com/bettybair
+    url: www.bookeo.com/bettybair
+    name: Bookings
+    type: external
 favicon: null
 collections:
   - index:
