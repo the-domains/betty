@@ -1,17 +1,16 @@
 ---
-datePublished: '2016-07-21T12:27:05.891Z'
+datePublished: '2016-07-21T12:27:52.612Z'
 sourcePath: _posts/2016-07-21-bookeocombettybair.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-21T12:27:05.336Z'
+dateModified: '2016-07-21T12:27:52.000Z'
 title: ''
 publisher: {}
 description: www.bookeo.com/bettybair
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: wwwbookeocombettybair/index.html
+_type: Blurb
 
 ---
 www.bookeo.com/bettybair
