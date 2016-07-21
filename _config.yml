@@ -1,20 +1,20 @@
-typography_spectrum: 0.530481617199257
+typography_spectrum: 0.17661242955364287
 color:
-  saturation: 0.513672411441803
-  brandStrength: 0.4801364606246352
-  lightness: 0.9449544774834067
+  saturation: 0.04564984
+  brandStrength: 0
+  lightness: 0.5687433
   brandColors:
-    - '#F9E4AD'
-    - '#E6B098'
-    - '#CC4452'
-    - '#723147'
-    - '#31152B'
-  rhythmicContrast: 0.7638854084070772
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
+  rhythmicContrast: 0.5118152
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.2673591917846352
+layout_spectrum: 0.9246886854525656
 analytics:
   twitter: null
   google: UA-78956265-1
@@ -26,11 +26,6 @@ cta:
   domain: null
 style: the-composer
 navigation:
-  - id: d0857391-046b-4f49-9d06-238933c505d4
-    url: >-
-      2016-04-22-the-snuggler-or-tim-and-eric-awesome-show-great-job-or-adul.html
-    name: Videos
-    type: content
   - id: f670666a-d194-4291-9053-931b5b787a88
     url: 2016-06-02-kroll-show-spotted-ox-hostel.html
     name: Videos
