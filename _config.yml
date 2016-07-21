@@ -25,11 +25,7 @@ cta:
   version: null
   domain: null
 style: the-composer
-navigation:
-  - id: f670666a-d194-4291-9053-931b5b787a88
-    url: 2016-06-02-kroll-show-spotted-ox-hostel.html
-    name: Videos
-    type: content
+navigation: []
 favicon: null
 collections:
   - index:
