@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-07-26T12:27:14.873Z'
+datePublished: '2016-07-26T12:37:44.854Z'
+sourcePath: _posts/2016-07-26-miss-these-jerks.md
 author: []
 via: {}
-dateModified: '2016-07-26T12:27:00.782Z'
+dateModified: '2016-07-26T12:37:43.409Z'
 title: Miss these Jerks
 publisher: {}
-description: ''
+description: Hankie and Franny
 starred: false
-sourcePath: _posts/2016-07-26-miss-these-jerks.md
 inFeed: true
 hasPage: true
 inNav: false
@@ -17,4 +17,4 @@ _type: Article
 
 ---
 # Miss these Jerks
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0752a914-a934-4cd3-865d-d30f8bb4e656.png)
+![Hankie and Franny](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ded78c1f6f45bf12430ea79e94281636975df15e.png)
