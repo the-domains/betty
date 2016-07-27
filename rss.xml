@@ -4,7 +4,7 @@
         <description><![CDATA[travels w// betty]]></description>
         <link>https://thegrid.ai/betty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 20:48:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2016 20:53:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/betty/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TRAVELs w// BETTY]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b1b3224-5ddf-4e9b-81ad-dd672474c0e2.jpg</link>
             <guid isPermaLink="false">442c66f1-9286-46b3-810b-970364368cd9</guid>
             <pubDate>Wed, 20 Jul 2016 13:30:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Statistical Analysis of 67 years of Lego Sets. Full survey here: https://blog.modeanalytics.com/lego-data-analysis/ ... thanks @Coudalpic.twitter.com/lsE88gBFBJ" src="https://pbs.twimg.com/media/CoXqsw2XEAA-qDt.jpg:large">]]></description>
+            <link>https://twitter.com/presentcorrect/status/758270203541217280</link>
+            <guid isPermaLink="false">d991b98b-7975-411e-a715-449228e454e6</guid>
+            <pubDate>Wed, 27 Jul 2016 20:53:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5093d162-3cc7-4692-96c7-cfca420b15b7.jpg</link>
             <guid isPermaLink="false">eb9502d3-07b7-422c-9be9-610b46e050d6</guid>
             <pubDate>Thu, 07 Jul 2016 12:22:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oh Danny boy]]></title>
-            <description><![CDATA[<article><h1>Oh Danny boy</h1><p>Grafton st</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8fccc52e4df7bf8a6b7ee1652a27410e88c7d7a8.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=Ofjzef1UCog&amp;feature=youtu.be</link>
-            <guid isPermaLink="false">7e4e8831-67bc-4e7d-8e6a-fff16f17d117</guid>
-            <pubDate>Mon, 23 May 2016 13:59:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
