@@ -4,7 +4,7 @@
         <description><![CDATA[travels w// betty]]></description>
         <link>https://thegrid.ai/betty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 20:53:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2016 21:14:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/betty/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TRAVELs w// BETTY]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b1b3224-5ddf-4e9b-81ad-dd672474c0e2.jpg</link>
             <guid isPermaLink="false">442c66f1-9286-46b3-810b-970364368cd9</guid>
             <pubDate>Wed, 20 Jul 2016 13:30:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="With these stock photo sites, you&apos;ll never go searching for social media images again: http://ow.ly/3wdz302DxyS" src="https://pbs.twimg.com/media/CoZVtBrXEAAcWVc.jpg:large">]]></description>
+            <link>https://twitter.com/hootsuite/status/758387822684438528</link>
+            <guid isPermaLink="false">676d5111-07bb-47be-b6d7-e808b43ee276</guid>
+            <pubDate>Wed, 27 Jul 2016 21:13:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b674e996-a2ed-450e-a6d0-7bd91afff74d.jpg</link>
             <guid isPermaLink="false">db5d6a50-ca78-49c7-80b9-e8d24fdb69d0</guid>
             <pubDate>Fri, 08 Jul 2016 12:38:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Irish Countryside]]></title>
-            <description><![CDATA[<article><h1>Irish Countryside</h1><p>26 June 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5093d162-3cc7-4692-96c7-cfca420b15b7.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5093d162-3cc7-4692-96c7-cfca420b15b7.jpg</link>
-            <guid isPermaLink="false">eb9502d3-07b7-422c-9be9-610b46e050d6</guid>
-            <pubDate>Thu, 07 Jul 2016 12:22:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
