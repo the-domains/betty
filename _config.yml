@@ -26,9 +26,11 @@ cta:
   domain: null
 style: the-composer
 navigation:
-  - id: www.bookeo.com/bettybair
+  - name: Bookings
     url: www.bookeo.com/bettybair
-    name: Bookings
+    type: external
+  - name: 'u p d a t e s '
+    url: 'http://www.123contactform.com/form-2104949/My-Form'
     type: external
 favicon: null
 collections:
