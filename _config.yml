@@ -46,5 +46,5 @@ collections:
     permalink:
       path: '/:title/'
 title: null
-description: Betty!
+description: betty!
 purpose: []
