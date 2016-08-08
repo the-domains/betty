@@ -26,15 +26,15 @@ cta:
   domain: null
 style: the-composer
 navigation:
+  - name: Blog
+    id: 2c4f8b91-f250-4d97-b48c-ec7e58b9313b
+    type: content
   - name: Instagram!
     url: 'https://www.instagram.com/that_betty/'
     type: external
   - name: 'u p d a t e s '
     url: 'http://www.123contactform.com/form-2104949/My-Form'
     type: external
-  - name: Blog
-    id: 2c4f8b91-f250-4d97-b48c-ec7e58b9313b
-    type: content
 favicon: null
 collections:
   - index:
