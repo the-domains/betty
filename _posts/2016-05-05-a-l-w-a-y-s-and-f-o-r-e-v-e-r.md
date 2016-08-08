@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-08T14:24:03.574Z'
+datePublished: '2016-08-08T14:29:19.449Z'
 sourcePath: _posts/2016-05-05-a-l-w-a-y-s-and-f-o-r-e-v-e-r.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T14:24:01.347Z'
+dateModified: '2016-08-08T14:29:18.587Z'
 title: the B L O G
 publisher: {}
 description: >-
@@ -12,7 +12,7 @@ description: >-
   just outside of city center. We had a lovely and relaxing weekend away,
   catching nautical Pokemon and enjoying each other’s company. Frank’s been out
   of town for work in Paris and London for the bast couple weeks, and I opted to
-  stay in Dublin for some time to myself. 
+  stay in Dublin for some time to myself.
 starred: false
 url: a-l-w-a-y-s-and-f-o-r-e-v-e-r/index.html
 _type: Blurb
@@ -24,9 +24,9 @@ _type: Blurb
 
 ### July 14, 2016
 
-Frank and I headed out to Galway for a weekend away. We stayed in Salthill, just outside of city center. We had a lovely and relaxing weekend away, catching nautical Pokemon and enjoying each other's company. Frank's been out of town for work in Paris and London for the bast couple weeks, and I opted to stay in Dublin for some time to myself. 
+Frank and I headed out to Galway for a weekend away. We stayed in Salthill, just outside of city center. We had a lovely and relaxing weekend away, catching nautical Pokemon and enjoying each other's company. Frank's been out of town for work in Paris and London for the bast couple weeks, and I opted to stay in Dublin for some time to myself.
 
-We loved Galway! Saw the Cliffs of Moher, and went to the Arran Islands, which was the best thing ever. I could totally live there, where I imagine I'd paint the rugged landscapes and write some serious poetry... the cats would roam the lands and become little salty babies. 
+We loved Galway! Saw the Cliffs of Moher, and went to the Arran Islands, which was the best thing ever. I could totally live there, where I imagine I'd paint the rugged landscapes and write some serious poetry... the cats would roam the lands and become little salty babies.
 
 On this trip I was once again reminded of how terrible Spanish teens are. In Dublin, they lurch around the streets in hoards, barely moving and blocking the whole lane. On this trip, I booked us a day tour to the Cliff and Arran Islands, where half the bus was packed with unsupervised teens who talked incessantly and were beyond rude all the live long day. We made the best of it though, scurrying away from the hoard as often as we could!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5798fe99-904a-4036-88e4-271c9c054083.jpg)
@@ -161,6 +161,8 @@ I've been in Paris for a few days, sadly mostly working. I'm glad it's Friday, b
 
 This is the view from Frank's cute apartment. The weather's in the 60s usually, both day/night. Seagulls squawk from the [rooftops][4], and horny pigeons coo outside the [window][4] all morning long.
 
+Oh yeah, and there's always some great local flavor happening on Grafton St, which is around the corner from our apt here in Dublin. Like this guy, jamming down with some [O Danny Boy!][5]
+
 ## C A L M
 
 ### May 6, 2016
@@ -184,3 +186,4 @@ I hope to really do some living this summer. I feel like my life has been on pau
 [2]: https://www.airbnb.ie/rooms/12573718
 [3]: http://www.museum.ie/Archaeology/Exhibitions/Current-Exhibitions/Kingship-and-Sacrifice
 [4]: URL%20here
+[5]: https://www.youtube.com/watch?v=Ofjzef1UCog&feature=youtu.be
