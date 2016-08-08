@@ -1,19 +1,65 @@
 ---
-datePublished: '2016-08-08T14:11:37.523Z'
+datePublished: '2016-08-08T14:24:03.574Z'
 sourcePath: _posts/2016-05-05-a-l-w-a-y-s-and-f-o-r-e-v-e-r.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T14:11:35.743Z'
+dateModified: '2016-08-08T14:24:01.347Z'
 title: the B L O G
 publisher: {}
-description: Traveling is sorta hard.
+description: >-
+  Frank and I headed out to Galway for a weekend away. We stayed in Salthill,
+  just outside of city center. We had a lovely and relaxing weekend away,
+  catching nautical Pokemon and enjoying each other’s company. Frank’s been out
+  of town for work in Paris and London for the bast couple weeks, and I opted to
+  stay in Dublin for some time to myself. 
 starred: false
 url: a-l-w-a-y-s-and-f-o-r-e-v-e-r/index.html
 _type: Blurb
 
 ---
 # **the B L O G**
+
+## G A L W A Y
+
+### July 14, 2016
+
+Frank and I headed out to Galway for a weekend away. We stayed in Salthill, just outside of city center. We had a lovely and relaxing weekend away, catching nautical Pokemon and enjoying each other's company. Frank's been out of town for work in Paris and London for the bast couple weeks, and I opted to stay in Dublin for some time to myself. 
+
+We loved Galway! Saw the Cliffs of Moher, and went to the Arran Islands, which was the best thing ever. I could totally live there, where I imagine I'd paint the rugged landscapes and write some serious poetry... the cats would roam the lands and become little salty babies. 
+
+On this trip I was once again reminded of how terrible Spanish teens are. In Dublin, they lurch around the streets in hoards, barely moving and blocking the whole lane. On this trip, I booked us a day tour to the Cliff and Arran Islands, where half the bus was packed with unsupervised teens who talked incessantly and were beyond rude all the live long day. We made the best of it though, scurrying away from the hoard as often as we could!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5798fe99-904a-4036-88e4-271c9c054083.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea30d83e-0c1c-4fc6-99ee-b970c04cd85a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca43f9da-8171-437c-a1d1-3989c8beb3fc.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7dc5f92-fb67-4bb7-8912-04deaca3bc18.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9bdfa9a-881d-4b0a-9ae1-12a1d5d5a7eb.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bdcf0c5-f6d1-44e7-b923-d3fa5c19acbc.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b061eea1-1083-4fee-9f7e-2567cbc53260.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57338e14-1783-441c-9d96-6d96ed3bb5e8.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9c6f321-fff8-4b5c-8a02-b300e2df1d2d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ef5cb4e-b573-4719-ad4f-85c17781e5da.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/093efba0-6100-44e0-a203-b5cb9fb01b7a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/79fbe57f-a474-408f-8722-574292300e47.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43c6b640-fab1-4fca-932f-2e954cfe1355.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ecf21cf-0e42-48de-8d28-482d328484f7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8369103-196e-4be0-8441-f30f2f4b8115.jpg)
+![the burren!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55fcdcef-57a8-4dd5-b6dc-daa18a005dd2.jpg)
+![Beach alter.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b51847b-df2d-4a76-85c0-9c29a669f445.jpg)
+
+## Sylvie Shows Up!
+
+## 26 June 2016
+
+Saw a ton of cool Neolithic sites outside of Dublin with my little cousin Sylvie who surprised me with her presence! We saw The Hill of Tara, Monasterboice, Trim Castle, and the [Loughcrew Megalithic Cairns. ][0]It was super interesting, though the weather was shit all day. It was fun to bond with the lil cousin and Frank and see tons of cool ancient stuff. More later!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/35c465ca-953a-4855-b45f-d4b986341158.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3f99b18-fa9b-4b31-b4f9-b9e25060d496.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd4055f7-9c21-44ad-85ad-3af78d49bb28.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec726a08-59bd-443d-9c82-197b55ca2bf9.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75f7d051-8e2a-4d15-b5b0-37cb49b62ff8.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bc8f3ef-36f3-4581-b893-bf85422f0a3d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59f0f555-0003-4750-a5a0-83ed93bd4a67.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fdd54f5-9146-49d1-adbc-68c584e93625.jpg)
 
 ## Traveling is sorta hard.
 
@@ -54,20 +100,22 @@ With all that, I'm figuring myself out, not in like, an eat/pray/love sort of wa
 
 ## L O N D O N
 
-We swung by London for a few days (Frank has a work thing). This is my first time here, and while the British Museum of Stolen Artifacts is amazing, I prefer the Louvre. The crowds at the BM are oppressive. If they have climate control in the museum, it's kept to a humid heat that I can't image is good for any old thing. 
+We swung by London for a few days (Frank has a work thing). This is my first time here, and while the British Museum of Stolen Artifacts is amazing, I prefer the Louvre. The crowds at the BM are oppressive. If they have climate control in the museum, it's kept to a humid heat that I can't image is good for any old thing.
 
-My fave part of London is the amazingly delicious and cheap Korean food. I could live on it for the rest of my days without complaint. 
+My fave part of London is the amazingly delicious and cheap Korean food. I could live on it for the rest of my days without complaint.
 
-All and all, while I enjoyed London, I'm not in love with the city by any means. ![We took the EuroStar train... long delays and no AC. :(](https://the-grid-user-content.s3-us-west-2.amazonaws.com/29839c45-2fc1-47c7-9e84-7fe566347169.png)
+All and all, while I enjoyed London, I'm not in love with the city by any means.
+![We took the EuroStar train... long delays and no AC. :(](https://the-grid-user-content.s3-us-west-2.amazonaws.com/29839c45-2fc1-47c7-9e84-7fe566347169.png)
 ![The White Sky of London!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a280f4dd-0b0c-4fdc-8f93-5b231bfe738f.png)
 
 ## G E R M A N Y
 
 ### June 2, 2016
 
-I'm going to Germany next week! We'll be in Düsseldorf for a couple days, then Cologne. I'm excited for the various beers of the area, river walks, museums, and cool old architecture. Oh, also sausages. Obviously. I'm very thankful for my remote job that I can do anywhere, any time, and still make a good living, and for Frank's jet-setting work schedule. It's pretty cool. Not gonna lie, Europe makes me want to smoke cigarettes. It's basically exactly like the [Nick Kroll spoof on Europeans][0] here everyplace we go.
+I'm going to Germany next week! We'll be in Düsseldorf for a couple days, then Cologne. I'm excited for the various beers of the area, river walks, museums, and cool old architecture. Oh, also sausages. Obviously. I'm very thankful for my remote job that I can do anywhere, any time, and still make a good living, and for Frank's jet-setting work schedule. It's pretty cool. Not gonna lie, Europe makes me want to smoke cigarettes. It's basically exactly like the [Nick Kroll spoof on Europeans][1] here everyplace we go.
 
-Some of my fave things: Tiny glasses of delicious beer and cheese shaped like mice. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62b64a98-e5e8-4759-9b95-083f132c4586.png)
+Some of my fave things: Tiny glasses of delicious beer and cheese shaped like mice.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62b64a98-e5e8-4759-9b95-083f132c4586.png)
 
 ## Dublin Weather... :(
 
@@ -76,11 +124,11 @@ Some of my fave things: Tiny glasses of delicious beer and cheese shaped like mi
 
 The weather in this nook of the world is so crazy. It's midwestern weather x100000\. It'll be warm and sunny for 20 min, then it'll downpour for 30 min, then it'll be hot and breezy, then you'll need a winter coat, then the streets will be flooded.
 
-We're off to Oslo tomorrow! I got a note from our AirBnB host over the weekend letting me know that her family needed to use the apt that we reserved, and so she's putting us up in a quite swanky pad in a cool 'hood that she usually rents for more than double what we booked for, and she's giving it to us for no extra fee... SO excited about the new, cuter and nicer location! Here's the [listing.][1]
+We're off to Oslo tomorrow! I got a note from our AirBnB host over the weekend letting me know that her family needed to use the apt that we reserved, and so she's putting us up in a quite swanky pad in a cool 'hood that she usually rents for more than double what we booked for, and she's giving it to us for no extra fee... SO excited about the new, cuter and nicer location! Here's the [listing.][2]
 
 You can buy a 24 hour pass that gets you into every museum in Oslo for about $40, so Frank and I will be making a day of it this coming Saturday.
 
-In other news, I just realized that there's a [BOG BODIES exhibit][2] at the Archaeology Museum here in Dublin (all museums are free here...) ... So I'll be doing that this week.
+In other news, I just realized that there's a [BOG BODIES exhibit][3] at the Archaeology Museum here in Dublin (all museums are free here...) ... So I'll be doing that this week.
 
 OK byeeee.
 
@@ -111,7 +159,7 @@ I've been in Paris for a few days, sadly mostly working. I'm glad it's Friday, b
 ### May 10, 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74f96c73-2879-4b63-a050-3f70ab7607f2.jpg)
 
-This is the view from Frank's cute apartment. The weather's in the 60s usually, both day/night. Seagulls squawk from the [rooftops][3], and horny pigeons coo outside the [window][3] all morning long.
+This is the view from Frank's cute apartment. The weather's in the 60s usually, both day/night. Seagulls squawk from the [rooftops][4], and horny pigeons coo outside the [window][4] all morning long.
 
 ## C A L M
 
@@ -131,7 +179,8 @@ The past few months have been hugely stressful. Dealing with my hugest tax bill 
 
 I hope to really do some living this summer. I feel like my life has been on pause in a bogus sort of way for too long and it's time to get it going in the direction I've been working toward for the past two years.
 
-[0]: https://www.youtube.com/watch?v=1YCOT5LasKc
-[1]: https://www.airbnb.ie/rooms/12573718
-[2]: http://www.museum.ie/Archaeology/Exhibitions/Current-Exhibitions/Kingship-and-Sacrifice
-[3]: URL%20here
+[0]: http://www.knowth.com/loughcrew.htm
+[1]: https://www.youtube.com/watch?v=1YCOT5LasKc
+[2]: https://www.airbnb.ie/rooms/12573718
+[3]: http://www.museum.ie/Archaeology/Exhibitions/Current-Exhibitions/Kingship-and-Sacrifice
+[4]: URL%20here
