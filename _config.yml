@@ -1,20 +1,20 @@
-typography_spectrum: 0.528780638705939
+typography_spectrum: 0.4785993106197566
 color:
-  saturation: 0.06757748033851385
-  brandStrength: 0.36761820246465504
-  lightness: 0.14032640075311065
+  saturation: 0.43439698149450123
+  brandStrength: 0.7766260181088
+  lightness: 0.4073363854549825
   brandColors:
-    - '#F9E4AD'
-    - '#E6B098'
-    - '#CC4452'
-    - '#723147'
-    - '#31152B'
-  rhythmicContrast: 0.2521142123732716
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  rhythmicContrast: 0.1134137671906501
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.3218113270122558
+layout_spectrum: 0.5186005434952676
 analytics:
   twitter: null
   google: UA-78956265-1
@@ -26,9 +26,6 @@ cta:
   domain: null
 style: the-composer
 navigation:
-  - name: Bookings
-    url: www.bookeo.com/bettybair
-    type: external
   - name: 'u p d a t e s '
     url: 'http://www.123contactform.com/form-2104949/My-Form'
     type: external
