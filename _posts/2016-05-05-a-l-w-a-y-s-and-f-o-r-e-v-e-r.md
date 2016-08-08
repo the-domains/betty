@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-08T14:29:19.449Z'
+datePublished: '2016-08-08T14:31:30.893Z'
 sourcePath: _posts/2016-05-05-a-l-w-a-y-s-and-f-o-r-e-v-e-r.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T14:29:18.587Z'
+dateModified: '2016-08-08T14:31:27.804Z'
 title: the B L O G
 publisher: {}
 description: >-
@@ -86,6 +86,11 @@ I shouldn't complain, I should go with the flow, look at the bright side, all th
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56e6ce4b-c329-4fcf-aa1d-9d7fe7987f42.jpg)
 
 Got my work done and now swimming and relaxing. Few complaints from me today.
+
+## Irish Beauty
+
+One of the most fun things in Dublin is observing the beauty rituals of the locals. I had my brows shaped and my lashes PERMED. Yes, permed, like a perm you get on you head, but on your EYELASHES to make them curled. Yeah, you can do this stuff in the states, but it's super fun to get beauty treatments done by locals to get a little flavor of the neighborhood.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92b12dfe-f288-48ef-b3f3-7be70868d51d.jpg)
 
 ## On Being a Nomad
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fe19fe7-8959-42fd-9e1b-af6deb86e940.jpg)
