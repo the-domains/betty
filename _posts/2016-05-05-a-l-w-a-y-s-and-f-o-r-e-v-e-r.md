@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-08T13:40:56.227Z'
+datePublished: '2016-08-08T13:41:32.306Z'
 sourcePath: _posts/2016-05-05-a-l-w-a-y-s-and-f-o-r-e-v-e-r.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T13:40:55.549Z'
+dateModified: '2016-08-08T13:41:31.705Z'
 title: G E R M A N Y
 publisher: {}
 description: 'June 2, 2016'
@@ -17,7 +17,7 @@ _type: Blurb
 
 June 2, 2016
 
-I'm going to Germany next week! We'll be in Düsseldorf for a couple days, then Cologne. I'm excited for the various beers of the area, river walks, museums, and cool old architecture. Oh, also sausages. Obviously. I'm very thankful for my remote job that I can do anywhere, any time, and still make a good living, and for Frank's jet-setting work schedule. It's pretty cool. Not gonna lie, Europe makes me want to smoke cigarettes. It's basically exactly like the Nick Kroll spoof on Europeans here everyplace we go.
+I'm going to Germany next week! We'll be in Düsseldorf for a couple days, then Cologne. I'm excited for the various beers of the area, river walks, museums, and cool old architecture. Oh, also sausages. Obviously. I'm very thankful for my remote job that I can do anywhere, any time, and still make a good living, and for Frank's jet-setting work schedule. It's pretty cool. Not gonna lie, Europe makes me want to smoke cigarettes. It's basically exactly like the Nick Kroll spoof on Europeans here everyplace we go. https://www.youtube.com/watch?v=1YCOT5LasKc
 
 # O S L O --- Here we come
 
