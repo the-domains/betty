@@ -1,25 +1,37 @@
 ---
-datePublished: '2016-08-08T14:44:29.918Z'
+datePublished: '2016-08-08T14:53:25.697Z'
 sourcePath: _posts/2016-05-05-a-l-w-a-y-s-and-f-o-r-e-v-e-r.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T14:44:28.100Z'
+dateModified: '2016-08-08T14:53:22.495Z'
 title: the B L O G
 publisher: {}
-description: >-
-  Frank and I headed out to Galway for a weekend away. We stayed in Salthill,
-  just outside of city center. We had a lovely and relaxing weekend away,
-  catching nautical Pokemon and enjoying each other’s company. Frank’s been out
-  of town for work in Paris and London for the bast couple weeks, and I opted to
-  stay in Dublin for some time to myself.
+description: July 30 - Aug 6
 starred: false
 url: a-l-w-a-y-s-and-f-o-r-e-v-e-r/index.html
 _type: Blurb
 
 ---
 # **the B L O G**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/527a7978-2f13-477c-91bf-a86804c7deb2.jpg)
+
+## F U E R T E V E N T U R A, Canary Islands
+
+July 30 - Aug 6
+
+Frank and I needed a real vacation together. Seven glorious days of sleeping in, loafing in the sun, and doing, well, almost nothing.
+
+We got a great deal on a last minute booking for a child-free resort in Corralejo, Fuerteventura, an arid and windy desert island in the mid Atlantic. We drank Nescafe with retirees and enjoyed the quietude of no screaming babies or horse playing teens for a full 7 days of heaven.
+
+It was truly a peek into retired life, and oh man, it was amazing. We went on an adults only catamaran booze cruise to Lanzarote, and went snorkeling and JETSKIING! I swam in the cool cobalt waters off the boat and felt a peace with all things. 
+
+We're now spoiled for holiday locales, and will here on out require Adults Only lodging. If only we could also take an Adults Only plane ride and stay in an Adults Only town. No offense parents of small humans, but your spawn, mostly the screaming ones, ruin everything. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/527a7978-2f13-477c-91bf-a86804c7deb2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49ed23a8-1cfe-4617-bc35-138d1bd310ca.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/98e54e02-2072-4561-9abc-95945138903e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/317b7092-dd3b-4c1b-8d4d-1b0b8501c4a3.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/37f4653e049c1d3e9f35cea41bc5b468/croprotate.jpg?cropheight=1535&cropwidth=5398&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9a4714ed-205e-428e-9842-67c1e98d0b25.jpg&x=0&y=0)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72276c48-02e1-4217-92b7-53175f6e21ef.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f10a209f-4df7-4314-ae64-0c60de2ef357.jpg)
 
 ## G A L W A Y
 
