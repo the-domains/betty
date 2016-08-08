@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-08T13:47:33.088Z'
+datePublished: '2016-08-08T13:50:51.215Z'
 sourcePath: _posts/2016-05-05-a-l-w-a-y-s-and-f-o-r-e-v-e-r.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T13:47:32.418Z'
-title: The Blog
+dateModified: '2016-08-08T13:50:50.332Z'
+title: t h e B L O G
 publisher: {}
 description: >-
   I’ve long romanticized the idea of going out and traveling in far places here
@@ -16,7 +16,7 @@ url: a-l-w-a-y-s-and-f-o-r-e-v-e-r/index.html
 _type: Blurb
 
 ---
-# The Blog
+# t h e B L O G
 
 ## On Being a Nomad
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fe19fe7-8959-42fd-9e1b-af6deb86e940.jpg)
@@ -35,6 +35,21 @@ With all that, I'm figuring myself out, not in like, an eat/pray/love sort of wa
 
 I'm going to Germany next week! We'll be in Düsseldorf for a couple days, then Cologne. I'm excited for the various beers of the area, river walks, museums, and cool old architecture. Oh, also sausages. Obviously. I'm very thankful for my remote job that I can do anywhere, any time, and still make a good living, and for Frank's jet-setting work schedule. It's pretty cool. Not gonna lie, Europe makes me want to smoke cigarettes. It's basically exactly like the [Nick Kroll spoof on Europeans][0] here everyplace we go.
 
+## Dublin Weather... :(
+
+### May 23, 2016
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/519b0ee6-e96d-4cdf-9620-6823f223aaed.jpg)
+
+The weather in this nook of the world is so crazy. It's midwestern weather x100000\. It'll be warm and sunny for 20 min, then it'll downpour for 30 min, then it'll be hot and breezy, then you'll need a winter coat, then the streets will be flooded.
+
+We're off to Oslo tomorrow! I got a note from our AirBnB host over the weekend letting me know that her family needed to use the apt that we reserved, and so she's putting us up in a quite swanky pad in a cool 'hood that she usually rents for more than double what we booked for, and she's giving it to us for no extra fee... SO excited about the new, cuter and nicer location! Here's the [listing.][1]
+
+You can buy a 24 hour pass that gets you into every museum in Oslo for about $40, so Frank and I will be making a day of it this coming Saturday.
+
+In other news, I just realized that there's a [BOG BODIES exhibit][2] at the Archaeology Museum here in Dublin (all museums are free here...) ... So I'll be doing that this week.
+
+OK byeeee.
+
 ## O S L O --- Here we come
 
 ## May 16, 2016
@@ -45,7 +60,7 @@ Next week we'll be going to Oslo, since Frank has some biz there, I'm going to t
 
 ## More on Oslo::
 
-The National Gallery here is so great. It's small and free! Two of my favorite things when it comes to National Galleries. The Viking Ship Museum was amazing. The Opera House is unlike any building I've ever seen. The food and drink is $$$$$. 
+The National Gallery here is so great. It's small and free! Two of my favorite things when it comes to National Galleries. The Viking Ship Museum was amazing. The Opera House is unlike any building I've ever seen. The food and drink is $$$$$.
 
 This is how I feel about my flight tomorrow morning at 7 something. Excited to be back in Dublin though!!
 
@@ -62,7 +77,7 @@ I've been in Paris for a few days, sadly mostly working. I'm glad it's Friday, b
 ### May 10, 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74f96c73-2879-4b63-a050-3f70ab7607f2.jpg)
 
-This is the view from Frank's cute apartment. The weather's in the 60s usually, both day/night. Seagulls squawk from the [rooftops][1], and horny pigeons coo outside the [window][1] all morning long.
+This is the view from Frank's cute apartment. The weather's in the 60s usually, both day/night. Seagulls squawk from the [rooftops][3], and horny pigeons coo outside the [window][3] all morning long.
 
 ## C A L M
 
@@ -83,4 +98,6 @@ The past few months have been hugely stressful. Dealing with my hugest tax bill 
 I hope to really do some living this summer. I feel like my life has been on pause in a bogus sort of way for too long and it's time to get it going in the direction I've been working toward for the past two years.
 
 [0]: https://www.youtube.com/watch?v=1YCOT5LasKc
-[1]: URL%20here
+[1]: https://www.airbnb.ie/rooms/12573718
+[2]: http://www.museum.ie/Archaeology/Exhibitions/Current-Exhibitions/Kingship-and-Sacrifice
+[3]: URL%20here
