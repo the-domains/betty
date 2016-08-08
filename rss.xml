@@ -4,7 +4,7 @@
         <description><![CDATA[Betty!]]></description>
         <link>https://thegrid.ai/betty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 13:48:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 13:57:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/betty/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TRAVELs w// BETTY]]></title>
@@ -33,13 +33,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f6fc551-0543-48d8-b61c-69e5c7bbd8d1.jpg</link>
             <guid isPermaLink="false">69cc0016-7666-41b3-b7ec-188eeee38518</guid>
             <pubDate>Tue, 26 Jul 2016 12:28:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Traveling is sorta hard.]]></title>
-            <description><![CDATA[<article><h1>Traveling is sorta hard.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4cfe7b1-11e0-4e38-907b-c03bdd50aa54.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4cfe7b1-11e0-4e38-907b-c03bdd50aa54.jpg</link>
-            <guid isPermaLink="false">06afadc6-3ed5-467a-bed0-64629140407c</guid>
-            <pubDate>Wed, 20 Jul 2016 13:36:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
