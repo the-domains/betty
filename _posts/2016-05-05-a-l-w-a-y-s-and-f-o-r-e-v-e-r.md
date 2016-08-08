@@ -1,22 +1,26 @@
 ---
-datePublished: '2016-08-08T13:50:51.215Z'
+datePublished: '2016-08-08T13:52:08.146Z'
 sourcePath: _posts/2016-05-05-a-l-w-a-y-s-and-f-o-r-e-v-e-r.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T13:50:50.332Z'
+dateModified: '2016-08-08T13:52:07.636Z'
 title: t h e B L O G
 publisher: {}
-description: >-
-  I’ve long romanticized the idea of going out and traveling in far places here
-  and there, going nowhere in particular and having no real schedule, just
-  existing, working my remote job, and seeing the world.
+description: Got my work done and now swimming and relaxing. Few complaints from me today.
 starred: false
 url: a-l-w-a-y-s-and-f-o-r-e-v-e-r/index.html
 _type: Blurb
 
 ---
 # t h e B L O G
+
+## Chilling in Tel Aviv
+
+### June 15, 2016
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56e6ce4b-c329-4fcf-aa1d-9d7fe7987f42.jpg)
+
+Got my work done and now swimming and relaxing. Few complaints from me today.
 
 ## On Being a Nomad
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fe19fe7-8959-42fd-9e1b-af6deb86e940.jpg)
