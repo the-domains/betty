@@ -4,7 +4,7 @@
         <description><![CDATA[Betty!]]></description>
         <link>https://thegrid.ai/betty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 13:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 13:48:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/betty/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TRAVELs w// BETTY]]></title>
@@ -40,13 +40,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4cfe7b1-11e0-4e38-907b-c03bdd50aa54.jpg</link>
             <guid isPermaLink="false">06afadc6-3ed5-467a-bed0-64629140407c</guid>
             <pubDate>Wed, 20 Jul 2016 13:36:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On being a Nomad]]></title>
-            <description><![CDATA[<article><h1>On being a Nomad</h1><p>I’ve long romanticized the idea of going out and traveling in far places here and there, going nowhere in particular and having no real schedule, just existing, working my remote job, and seeing the world.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a251fe24d4639c27662892511220c5d6/croprotate.jpg?cropheight=1197&cropwidth=5400&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fb674e996-a2ed-450e-a6d0-7bd91afff74d.jpg&x=0&y=0"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b674e996-a2ed-450e-a6d0-7bd91afff74d.jpg</link>
-            <guid isPermaLink="false">db5d6a50-ca78-49c7-80b9-e8d24fdb69d0</guid>
-            <pubDate>Fri, 08 Jul 2016 12:38:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
