@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-08T14:31:30.893Z'
+datePublished: '2016-08-08T14:36:51.376Z'
 sourcePath: _posts/2016-05-05-a-l-w-a-y-s-and-f-o-r-e-v-e-r.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T14:31:27.804Z'
+dateModified: '2016-08-08T14:36:50.114Z'
 title: the B L O G
 publisher: {}
 description: >-
@@ -46,6 +46,11 @@ On this trip I was once again reminded of how terrible Spanish teens are. In Dub
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8369103-196e-4be0-8441-f30f2f4b8115.jpg)
 ![the burren!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55fcdcef-57a8-4dd5-b6dc-daa18a005dd2.jpg)
 ![Beach alter.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b51847b-df2d-4a76-85c0-9c29a669f445.jpg)
+
+## Dublin :: Roastedbrown, or My favorite place to hang out in the 'hood.
+
+This is what happens when you stop being a weirdo, depressed hermit and leave the flat to work. An artist walked over to me while I sipped some coffee and sheepishly handed me this sketch of me working. I LOVE IT SO MUCH
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f71a4f5c-50df-4e96-84eb-066cfcfb91e3.jpg)
 
 ## Sylvie Shows Up!
 
@@ -144,6 +149,8 @@ OK byeeee.
 ### I'm enjoying myself and getting accustomed to this normal existence in Dublin for a little while. Paris was great this time around (I think this was my 3rd time...). I finally went to the Louvre, which while my typically curmudgeonly attitude will turn her nose up at touristy things, it's nice to remember that that shit is pretty awesome to see! I could have spent a lot more time Louvre-ing, but alas it closed early on Sunday and I didn't get to see as much of the ancient stuff as I'd have liked to. Next time I'll be bee-lining to the Egyptian and Islamic artifacts and mostly skipping the galleries of paintings.
 
 Next week we'll be going to Oslo, since Frank has some biz there, I'm going to tag along. I can't wait to see some really old Viking stuff and eat a bunch of weird smoked fish. We're staying in a swanky Oslo hotel for the first part of the trip, then relocating to a cute and tiny AirBnB. Hotels are insanely expensive in Oslo, and oh, they're currently having a hotel strike!? So thanks NR for the first few days!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/35b48944-1731-45dd-b938-c9a8eb3e66a4.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eccd9a3b-622f-4d6d-8c8f-0f02f2ff0ff0.png)
 
 ## More on Oslo::
 
