@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-08T14:02:27.223Z'
+datePublished: '2016-08-08T14:11:37.523Z'
 sourcePath: _posts/2016-05-05-a-l-w-a-y-s-and-f-o-r-e-v-e-r.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T14:02:25.072Z'
+dateModified: '2016-08-08T14:11:35.743Z'
 title: the B L O G
 publisher: {}
 description: Traveling is sorta hard.
@@ -52,12 +52,22 @@ This is all not to say that I'm not enjoying myself on other levels, because I a
 
 With all that, I'm figuring myself out, not in like, an eat/pray/love sort of way exactly, but maybe kinda? I guess I should go to Tuscany now and bask in the sun or something. That actually sounds amazing.
 
+## L O N D O N
+
+We swung by London for a few days (Frank has a work thing). This is my first time here, and while the British Museum of Stolen Artifacts is amazing, I prefer the Louvre. The crowds at the BM are oppressive. If they have climate control in the museum, it's kept to a humid heat that I can't image is good for any old thing. 
+
+My fave part of London is the amazingly delicious and cheap Korean food. I could live on it for the rest of my days without complaint. 
+
+All and all, while I enjoyed London, I'm not in love with the city by any means. ![We took the EuroStar train... long delays and no AC. :(](https://the-grid-user-content.s3-us-west-2.amazonaws.com/29839c45-2fc1-47c7-9e84-7fe566347169.png)
+![The White Sky of London!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a280f4dd-0b0c-4fdc-8f93-5b231bfe738f.png)
+
 ## G E R M A N Y
 
 ### June 2, 2016
 
 I'm going to Germany next week! We'll be in Düsseldorf for a couple days, then Cologne. I'm excited for the various beers of the area, river walks, museums, and cool old architecture. Oh, also sausages. Obviously. I'm very thankful for my remote job that I can do anywhere, any time, and still make a good living, and for Frank's jet-setting work schedule. It's pretty cool. Not gonna lie, Europe makes me want to smoke cigarettes. It's basically exactly like the [Nick Kroll spoof on Europeans][0] here everyplace we go.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62b64a98-e5e8-4759-9b95-083f132c4586.png)
+
+Some of my fave things: Tiny glasses of delicious beer and cheese shaped like mice. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62b64a98-e5e8-4759-9b95-083f132c4586.png)
 
 ## Dublin Weather... :(
 
