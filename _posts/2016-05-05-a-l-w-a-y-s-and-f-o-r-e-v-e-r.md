@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-08T13:32:41.677Z'
+datePublished: '2016-08-08T13:34:24.571Z'
 sourcePath: _posts/2016-05-05-a-l-w-a-y-s-and-f-o-r-e-v-e-r.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T13:32:41.022Z'
-title: 'O S L O — Here we come '
+dateModified: '2016-08-08T13:34:23.820Z'
+title: O S L O — Here we come
 publisher: {}
 description: >-
   Next week we’ll be going to Oslo, since Frank has some biz there, I’m going to
@@ -19,7 +19,7 @@ url: a-l-w-a-y-s-and-f-o-r-e-v-e-r/index.html
 _type: Blurb
 
 ---
-# O S L O --- Here we come 
+# O S L O --- Here we come
 
 ### May 16, 2016
 
@@ -27,7 +27,13 @@ _type: Blurb
 
 Next week we'll be going to **Oslo**, since Frank has some biz there, I'm going to tag along. I can't wait to see some really old [Viking][0] stuff and eat a bunch of weird smoked fish. We're staying in a swanky Oslo hotel for the first part of the trip, then relocating to a cute and tiny AirBnB. Hotels are insanely expensive in Oslo, and oh, they're currently having a hotel strike!? So thanks NR for the first few days!
 
-# Arrival in Dublin
+# Paris
+
+# May 13, 2016
+
+I've literally never been so jet lagged. Never again will I suffer a 12 hour layover. I refuse! Or, if I do have to do two red eyes in a row again, this queen is going to have some serious sleeping pills or other fun Rx drugs.
+
+I've been in Paris for a few days, sadly mostly working. I'm glad it's Friday, because I'm gonna get my walk on, see some gardens, art, culture, and eat all the cheese and bread I can. I'm having a relaxing wonderful time. Photos to come! Frank and I were talking and snuggling last night and he helped me remember that I am here. We aren't 5000 miles apart anymore. It's strange how it takes a while to let that sensation settle in and feel normal. We've spent the majority of our relationship away from each other, and I'm glad I have him to remind me to be in theArrival in Dublin
 
 May 6, 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74f96c73-2879-4b63-a050-3f70ab7607f2.jpg)
