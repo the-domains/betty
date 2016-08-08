@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-08T13:56:48.031Z'
+datePublished: '2016-08-08T14:00:51.924Z'
 sourcePath: _posts/2016-05-05-a-l-w-a-y-s-and-f-o-r-e-v-e-r.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T13:56:46.706Z'
+dateModified: '2016-08-08T14:00:50.730Z'
 title: the B L O G
 publisher: {}
 description: Traveling is sorta hard.
@@ -13,7 +13,7 @@ url: a-l-w-a-y-s-and-f-o-r-e-v-e-r/index.html
 _type: Blurb
 
 ---
-# the B L O G
+# **the B L O G**
 
 ## Traveling is sorta hard.
 
