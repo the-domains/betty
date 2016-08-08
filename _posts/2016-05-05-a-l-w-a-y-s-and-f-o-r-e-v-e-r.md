@@ -1,19 +1,38 @@
 ---
-datePublished: '2016-08-08T13:52:08.146Z'
+datePublished: '2016-08-08T13:56:48.031Z'
 sourcePath: _posts/2016-05-05-a-l-w-a-y-s-and-f-o-r-e-v-e-r.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T13:52:07.636Z'
-title: t h e B L O G
+dateModified: '2016-08-08T13:56:46.706Z'
+title: the B L O G
 publisher: {}
-description: Got my work done and now swimming and relaxing. Few complaints from me today.
+description: Traveling is sorta hard.
 starred: false
 url: a-l-w-a-y-s-and-f-o-r-e-v-e-r/index.html
 _type: Blurb
 
 ---
-# t h e B L O G
+# the B L O G
+
+## Traveling is sorta hard.
+
+## June 22ish, 2016
+
+Traveling is sorta hard.
+
+I've long romanticized travel as this amazing thing only the privileged get to do. As I've been bopping around the world with Frank for the past month, I totally realize how lucky of a human I am right now. Yeah, I may have some nasty student loans, occasional crushing depression, anxiety about the stuff I've left behind in Portland, not the most amazing job security, but hey, I've got to see stuff in the past month that I never imagined I'd get to see or do.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71820a45-ae3c-4f6b-b416-2df314c23a03.jpg)
+
+That all said, I miss my bed, my cats, and my routine. Why do I gotta be such a creature of habit? All I can think is that this shit takes practice, and a lot of patience, which I'm pretty short on... embarrassingly short on. So I guess I'l be working on that.
+
+We got back into Dublin on Monday AM after a 7 hour over night layover in Istanbul that was less than ideal, and the crabby, impatient, zombie version of my reared her head a couple times. I need at least 6 hours of sleep in a lay-flat position to be a functional human. I don't know how there are those of us (Frank) who can appear a normal human being with no sleep and no comfort. I guess these things take time. And I'm grateful to have a partner ho hasn't left me in a terminal as I act a monster. If I could just smoke a little weed at the airport I'd be totally fine...
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/23853f13-af19-4190-9e87-1c136dd4cd9f.jpg)
+
+Things I hate about traveling mostly have to do with the getting to and leaving from aspects, ie. the airport in general. I hate being asked personal questions by a stranger. Fuck, open my bags and look through everything, pat me down, swab me, but really my relationship is none of anyone's business but my own. And why I'm in a place, as long as I'm bomb-free, shouldn't concern you. I hate, hate, hate, boarders. They make me feel like I'm in prison. I just wish we could all move about the world as we please with no risks of imminent danger. But that's not the global community we have quite yet. I've been getting hassled more and more each time I re-enter Ireland, and it is extremely anxiety provoking for me, so much so that I don't feel like even leaving again till I head back to the states, which is going to be a horrible nightmare at that boarder crossing, too, I'm sure! When we left Israel we were questioned 5 times. We were leaving, had had both our bags ransacked, and still we were probed more. Frank has a trip to London coming up and I've decided to stay home in Dublin partially because I can't bear the boarder again. It sends me into a darkness that I hate, and I know it chips away at Frank, too, to witness my Ms Hyde come out to play. So anyway. Glad I have a video call with my therapist this week!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0d87029-1e21-438b-aba9-8361a05272a0.jpg)
+
+I shouldn't complain, I should go with the flow, look at the bright side, all that. And I'll continue to do my best with this amazing privilege that's been bestowed upon me. I don't know where I'll be visiting next, but we may actually be going back to Tel Aviv in July. I think I want to go to Spain or someplace else on the Mediterranean Sea. It makes me so happy to be near the sea. Hopefully I can take a deep breath and chill the fuck out about the nerves I get on the boarders of the world.
 
 ## Chilling in Tel Aviv
 
