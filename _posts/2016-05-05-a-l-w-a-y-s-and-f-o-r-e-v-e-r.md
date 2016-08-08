@@ -1,24 +1,24 @@
 ---
-datePublished: '2016-08-08T13:36:02.337Z'
+datePublished: '2016-08-08T13:36:58.419Z'
 sourcePath: _posts/2016-05-05-a-l-w-a-y-s-and-f-o-r-e-v-e-r.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T13:35:51.196Z'
-title: O S L O — Here we come
+dateModified: '2016-08-08T13:36:57.771Z'
+title: G E R M A N Y
 publisher: {}
-description: >-
-  Next week we’ll be going to Oslo, since Frank has some biz there, I’m going to
-  tag along. I can’t wait to see some really old Viking stuff and eat a bunch of
-  weird smoked fish. We’re staying in a swanky Oslo hotel for the first part of
-  the trip, then relocating to a cute and tiny AirBnB. Hotels are insanely
-  expensive in Oslo, and oh, they’re currently having a hotel strike!? So thanks
-  NR for the first few days!
+description: 'June 2, 2016'
 starred: false
 url: a-l-w-a-y-s-and-f-o-r-e-v-e-r/index.html
 _type: Blurb
 
 ---
+# G E R M A N Y
+
+June 2, 2016
+
+I'm going to Germany next week! We'll be in Düsseldorf for a couple days, then Cologne. I'm excited for the various beers of the area, river walks, museums, and cool old architecture. Oh, also sausages. Obviously. I'm very thankful for my remote job that I can do anywhere, any time, and still make a good living, and for Frank's jet-setting work schedule. It's pretty cool. Not gonna lie, Europe makes me want to smoke cigarettes. It's basically exactly like the Nick Kroll spoof on Europeans here everyplace we go.
+
 # O S L O --- Here we come
 
 ### May 16, 2016
