@@ -35,6 +35,9 @@ navigation:
   - name: Blog
     id: 2c4f8b91-f250-4d97-b48c-ec7e58b9313b
     type: content
+  - name: Instagram!
+    url: 'https://www.instagram.com/that_betty/'
+    type: external
 favicon: null
 collections:
   - index:
