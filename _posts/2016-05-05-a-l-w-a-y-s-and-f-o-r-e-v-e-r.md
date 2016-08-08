@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-08T14:00:51.924Z'
+datePublished: '2016-08-08T14:02:27.223Z'
 sourcePath: _posts/2016-05-05-a-l-w-a-y-s-and-f-o-r-e-v-e-r.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T14:00:50.730Z'
+dateModified: '2016-08-08T14:02:25.072Z'
 title: the B L O G
 publisher: {}
 description: Traveling is sorta hard.
@@ -57,6 +57,7 @@ With all that, I'm figuring myself out, not in like, an eat/pray/love sort of wa
 ### June 2, 2016
 
 I'm going to Germany next week! We'll be in Düsseldorf for a couple days, then Cologne. I'm excited for the various beers of the area, river walks, museums, and cool old architecture. Oh, also sausages. Obviously. I'm very thankful for my remote job that I can do anywhere, any time, and still make a good living, and for Frank's jet-setting work schedule. It's pretty cool. Not gonna lie, Europe makes me want to smoke cigarettes. It's basically exactly like the [Nick Kroll spoof on Europeans][0] here everyplace we go.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62b64a98-e5e8-4759-9b95-083f132c4586.png)
 
 ## Dublin Weather... :(
 
