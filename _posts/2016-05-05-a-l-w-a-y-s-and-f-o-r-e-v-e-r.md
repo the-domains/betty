@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-08T14:36:51.376Z'
+datePublished: '2016-08-08T14:44:29.918Z'
 sourcePath: _posts/2016-05-05-a-l-w-a-y-s-and-f-o-r-e-v-e-r.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T14:36:50.114Z'
+dateModified: '2016-08-08T14:44:28.100Z'
 title: the B L O G
 publisher: {}
 description: >-
@@ -19,6 +19,7 @@ _type: Blurb
 
 ---
 # **the B L O G**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/527a7978-2f13-477c-91bf-a86804c7deb2.jpg)
 
 ## G A L W A Y
 
