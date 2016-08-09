@@ -26,18 +26,12 @@ cta:
   domain: null
 style: the-composer
 navigation:
-  - name: blog
-    id: 2c4f8b91-f250-4d97-b48c-ec7e58b9313b
-    type: content
   - name: IG
     url: 'https://www.instagram.com/that_betty/'
     type: external
   - name: sign up
     url: 'http://www.123contactform.com/form-2104949/My-Form'
     type: external
-  - name: TRAVELs w// BETTY
-    id: 442c66f1-9286-46b3-810b-970364368cd9
-    type: content
 favicon: null
 collections:
   - index:
