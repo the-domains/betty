@@ -4,8 +4,15 @@
         <description><![CDATA[h o m e]]></description>
         <link>https://thegrid.ai/betty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 14:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 15:24:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/betty/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OpenStreetMap]]></title>
+            <description><![CDATA[<article><h1>OpenStreetMap</h1><p>OpenStreetMap is a map of the world, created by people like you and free to use under an open license.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2025ef30638a68a4bfcd4a82c8cc2a1d/noop.png?input=http%3A%2F%2Fwww.openstreetmap.org%2Fassets%2Fosm_logo_256-835a859acf0d378e1d14e88b15e7b4b95211ccd41a2c061b1629cfbbb8deb697.png"></article>]]></description>
+            <link>http://www.openstreetmap.org/#map=12/45.5221/10.7917</link>
+            <guid isPermaLink="false">708085a9-721e-42d1-9a63-c6aaabd115a9</guid>
+            <pubDate>Tue, 09 Aug 2016 15:24:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[F U E R T E V E N T U R A, Canary Islands]]></title>
             <description><![CDATA[<article><h1>F U E R T E V E N T U R A, Canary Islands</h1><h2>G A L W A Y</h2><p>July 30 - Aug 6</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dea089a-087b-49f8-9dd7-65f9ae995814.jpg"></article>]]></description>
