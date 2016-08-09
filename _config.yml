@@ -26,7 +26,7 @@ cta:
   domain: null
 style: the-composer
 navigation:
-  - name: Blog
+  - name: blog
     id: 2c4f8b91-f250-4d97-b48c-ec7e58b9313b
     type: content
   - name: IG
