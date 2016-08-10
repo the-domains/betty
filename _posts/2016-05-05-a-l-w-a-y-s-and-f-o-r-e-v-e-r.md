@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-08-10T20:11:02.936Z'
+datePublished: '2016-08-10T20:13:27.358Z'
 sourcePath: _posts/2016-05-05-a-l-w-a-y-s-and-f-o-r-e-v-e-r.md
-inFeed: true
+inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-10T20:11:01.736Z'
+dateModified: '2016-08-10T20:13:25.233Z'
 title: b l o g
 publisher: {}
 description: July 30 - Aug 6
 starred: false
 url: f-u-e-r-t-e-v-e-n-t-u-r-a-canary-islands/index.html
-_type: Article
+_type: Blurb
 
 ---
 # b l o g
