@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-10T18:31:36.553Z'
+datePublished: '2016-08-10T20:09:47.120Z'
 sourcePath: _posts/2016-05-05-a-l-w-a-y-s-and-f-o-r-e-v-e-r.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-10T12:39:00.675Z'
-title: 'F U E R T E V E N T U R A, Canary Islands'
+dateModified: '2016-08-10T20:09:46.024Z'
+title: b l o g
 publisher: {}
 description: July 30 - Aug 6
 starred: false
@@ -14,6 +14,7 @@ url: f-u-e-r-t-e-v-e-n-t-u-r-a-canary-islands/index.html
 _type: Article
 
 ---
+# b l o g
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dea089a-087b-49f8-9dd7-65f9ae995814.jpg)
 
 ## F U E R T E V E N T U R A, Canary Islands
