@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[h o m e]]></title>
         <description><![CDATA[h o m e]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/betty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 18:31:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Aug 2016 20:10:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/betty/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[F U E R T E V E N T U R A, Canary Islands]]></title>
-            <description><![CDATA[<article><h1>F U E R T E V E N T U R A, Canary Islands</h1><h2>G A L W A Y</h2><p>July 30 - Aug 6</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dea089a-087b-49f8-9dd7-65f9ae995814.jpg"></article>]]></description>
-            <link>undefinedf-u-e-r-t-e-v-e-n-t-u-r-a-canary-islands/index.html</link>
+            <title><![CDATA[b l o g]]></title>
+            <description><![CDATA[<article><h1>b l o g</h1><h2>F U E R T E V E N T U R A, Canary Islands</h2><p>July 30 - Aug 6</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dea089a-087b-49f8-9dd7-65f9ae995814.jpg"></article>]]></description>
+            <link>https://thegrid.ai/betty/f-u-e-r-t-e-v-e-n-t-u-r-a-canary-islands/index.html</link>
             <guid isPermaLink="false">2c4f8b91-f250-4d97-b48c-ec7e58b9313b</guid>
-            <pubDate>Wed, 10 Aug 2016 18:31:36 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2016 20:09:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
