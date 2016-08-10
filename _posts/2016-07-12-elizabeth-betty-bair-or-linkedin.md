@@ -23,15 +23,14 @@ description: >-
   planning and working large events (UserConf).
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://www.linkedin.com/in/bettybair'
 title: Elizabeth (Betty) Bair | LinkedIn
-datePublished: '2016-08-10T11:14:01.051Z'
-dateModified: '2016-07-13T17:30:39.081Z'
+datePublished: '2016-08-10T11:19:28.181Z'
+dateModified: '2016-08-10T11:19:27.667Z'
 sourcePath: _posts/2016-07-12-elizabeth-betty-bair-or-linkedin.md
+via: {}
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: elizabeth-betty-bair-or-linkedin/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
