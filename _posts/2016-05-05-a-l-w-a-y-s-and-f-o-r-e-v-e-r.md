@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-09T15:56:48.497Z'
+datePublished: '2016-08-10T11:25:36.928Z'
 sourcePath: _posts/2016-05-05-a-l-w-a-y-s-and-f-o-r-e-v-e-r.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-09T15:56:47.231Z'
+dateModified: '2016-08-10T11:25:35.733Z'
 title: 'F U E R T E V E N T U R A, Canary Islands'
 publisher: {}
 description: July 30 - Aug 6
