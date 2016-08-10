@@ -32,6 +32,9 @@ navigation:
   - name: IG
     url: 'https://www.instagram.com/that_betty/'
     type: external
+  - name: b l o g
+    id: 2c4f8b91-f250-4d97-b48c-ec7e58b9313b
+    type: content
 favicon: null
 collections:
   - index:
