@@ -35,6 +35,9 @@ navigation:
   - name: b l o g
     id: 2c4f8b91-f250-4d97-b48c-ec7e58b9313b
     type: content
+  - name: LinkedIn
+    id: e705be94-fa07-4c50-ac86-e928d07edf92
+    type: content
 favicon: null
 collections:
   - index:
