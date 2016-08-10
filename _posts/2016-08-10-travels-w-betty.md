@@ -1,9 +1,9 @@
 ---
-title: Travels w Betty
-datePublished: '2016-08-10T19:46:47.860Z'
-dateModified: '2016-08-10T19:46:34.393Z'
-author: []
 description: ''
+dateModified: '2016-08-10T20:08:06.321Z'
+datePublished: '2016-08-10T20:08:36.369Z'
+title: travels w betty
+author: []
 publisher: {}
 via: {}
 starred: true
@@ -14,4 +14,5 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/088e7c92-e320-46d2-b5ef-903750d9b211.jpg)
+# travels w betty
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/baab05fe-6251-4581-98ad-6ad189161ab1.jpg)
