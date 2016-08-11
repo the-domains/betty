@@ -24,8 +24,8 @@ description: >-
 inLanguage: en
 app_links: []
 title: Elizabeth (Betty) Bair | LinkedIn
-datePublished: '2016-08-11T13:43:26.252Z'
-dateModified: '2016-08-10T12:39:02.395Z'
+datePublished: '2016-08-11T13:44:01.642Z'
+dateModified: '2016-08-11T13:44:01.145Z'
 sourcePath: _posts/2016-07-12-elizabeth-betty-bair-or-linkedin.md
 via: {}
 hasPage: true
