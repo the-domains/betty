@@ -26,6 +26,9 @@ cta:
   domain: null
 style: the-composer
 navigation:
+  - name: b l o g
+    id: 2c4f8b91-f250-4d97-b48c-ec7e58b9313b
+    type: content
   - name: U P D A T E S
     url: 'http://www.123contactform.com/form-2104949/My-Form'
     type: external
@@ -34,9 +37,6 @@ navigation:
     type: external
   - name: linkedIN
     id: e705be94-fa07-4c50-ac86-e928d07edf92
-    type: content
-  - name: b l o g
-    id: 2c4f8b91-f250-4d97-b48c-ec7e58b9313b
     type: content
 favicon: null
 collections:
