@@ -24,16 +24,6 @@ color:
     - '#4D4D4D'
     - '#333333'
   lightness: 0.3966507203876972
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: UA-78956265-1
-  facebook: null
-name: travels w// betty
-favicon: null
 navigation:
   - name: b l o g
     id: 2c4f8b91-f250-4d97-b48c-ec7e58b9313b
@@ -47,9 +37,19 @@ navigation:
   - name: signup
     url: 'http://www.123contactform.com/form-2104949/My-Form'
     type: external
+analytics:
+  twitter: null
+  google: UA-78956265-1
+  facebook: null
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: travels w// betty
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.112938251812011
+typography_spectrum: 0.4301826
 layout_spectrum: 1
