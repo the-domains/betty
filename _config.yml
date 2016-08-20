@@ -15,7 +15,7 @@ collections:
 description: b e t t y
 color:
   saturation: 0.4365058
-  brandStrength: 0.2619217711035162
+  brandStrength: 0.4699248
   lightness: 0.5483351
   brandColors:
     - '#FFFFFF'
@@ -28,6 +28,12 @@ cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: UA-78956265-1
+  facebook: null
+name: travels w// betty
+favicon: null
 navigation:
   - name: b l o g
     id: 2c4f8b91-f250-4d97-b48c-ec7e58b9313b
@@ -41,12 +47,6 @@ navigation:
   - name: signup
     url: 'http://www.123contactform.com/form-2104949/My-Form'
     type: external
-favicon: null
-analytics:
-  twitter: null
-  google: UA-78956265-1
-  facebook: null
-name: travels w// betty
 opengraph:
   image: null
   type: null
