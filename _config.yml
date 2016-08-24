@@ -1,3 +1,16 @@
+layout_spectrum: 0.24227312882430851
+typography_spectrum: 0.12995405052788556
+color:
+  saturation: 0.4365058
+  brandStrength: 0.4699248
+  lightness: 0.5483351
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  rhythmicContrast: 0.07647666
 title: h o m e
 purpose: []
 collections:
@@ -13,17 +26,6 @@ collections:
     permalink:
       path: '/:title/'
 description: b e t t y
-color:
-  saturation: 0.4365058
-  brandStrength: 0.4699248
-  lightness: 0.5483351
-  brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  rhythmicContrast: 0.07647666
 cta:
   bucket: null
   version: null
@@ -51,5 +53,3 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.4301826
-layout_spectrum: 0.8136413
