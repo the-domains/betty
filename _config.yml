@@ -1,4 +1,3 @@
-layout_spectrum: 0.4271177926566452
 typography_spectrum: 0.7973197344690561
 color:
   saturation: 0.4365058
@@ -11,31 +10,20 @@ color:
     - '#4D4D4D'
     - '#333333'
   rhythmicContrast: 0.07647666
-title: h o m e
-purpose: []
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-description: b e t t y
-cta:
-  bucket: null
-  version: null
-  domain: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4271177926566452
 analytics:
   twitter: null
   google: UA-78956265-1
   facebook: null
 name: travels w// betty
-favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 navigation:
   - name: b l o g
     id: 2c4f8b91-f250-4d97-b48c-ec7e58b9313b
@@ -49,7 +37,19 @@ navigation:
   - name: signup
     url: 'http://www.123contactform.com/form-2104949/My-Form'
     type: external
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+title: ''
+description: b e t t y
+purpose: []
