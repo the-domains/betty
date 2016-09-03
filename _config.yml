@@ -1,4 +1,3 @@
-layout_spectrum: 0.625655930256471
 typography_spectrum: 0.5138886943459511
 color:
   saturation: 0.4365058
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.625655930256471
 analytics:
   twitter: null
   google: UA-78956265-1
@@ -36,6 +36,9 @@ navigation:
     type: content
   - name: signup
     url: 'http://www.123contactform.com/form-2104949/My-Form'
+    type: external
+  - name: Contact Form!
+    url: contact form url
     type: external
 favicon: null
 collections:
