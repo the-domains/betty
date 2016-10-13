@@ -1,44 +1,45 @@
-typography_spectrum: 0.5138886943459511
+typography_spectrum: 0.46832620562054217
 color:
-  saturation: 0.4365058
-  brandStrength: 0.4699248
-  lightness: 0.5483351
+  saturation: 0.9238678247202188
+  brandStrength: 0.5186166507191956
+  lightness: 0.7146433882880956
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  rhythmicContrast: 0.07647666
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+  rhythmicContrast: 0.36793499207124114
+github: true
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.625655930256471
+layout_spectrum: 0.3995526854414493
 analytics:
   twitter: null
   google: UA-78956265-1
   facebook: null
-name: travels w// betty
+name: travels with betty
 cta:
   bucket: null
   version: null
   domain: null
 navigation:
-  - name: b l o g
-    id: 2c4f8b91-f250-4d97-b48c-ec7e58b9313b
-    type: content
   - name: i g
     url: 'https://www.instagram.com/that_betty/'
     type: external
-  - name: linkedIN
-    id: e705be94-fa07-4c50-ac86-e928d07edf92
-    type: content
   - name: signup
     url: 'http://www.123contactform.com/form-2104949/My-Form'
     type: external
-  - name: Contact Form!
-    url: contact form url
+  - name: SHOP
+    url: 'http://thegrid.ai/ursa/'
+    type: external
+  - name: b l o g
+    id: 2c4f8b91-f250-4d97-b48c-ec7e58b9313b
+    type: content
+  - name: gallery
+    url: 'http://thegrid.ai/snuggler/'
     type: external
 favicon: null
 collections:
@@ -47,12 +48,21 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 title: ''
+content: []
+coverPrefs:
+  filter: false
 description: ''
-purpose: []
+purpose:
+  - type: internal
+    label: blog!
+    item: 2c4f8b91-f250-4d97-b48c-ec7e58b9313b
+  - type: external
+    url: 'http://thegrid.ai/ursa/'
+    label: Shop
