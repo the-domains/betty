@@ -1,21 +1,31 @@
 ---
-datePublished: '2016-08-12T16:56:54.852Z'
+datePublished: '2016-10-13T22:40:23.641Z'
 sourcePath: _posts/2016-05-05-a-l-w-a-y-s-and-f-o-r-e-v-e-r.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-12T16:56:52.929Z'
+dateModified: '2016-10-13T22:40:22.010Z'
 title: b l o g
 publisher: {}
-description: July 30 - Aug 6
+description: 'After 2 amazingly sunny and crisp fall days, the rains have arrived. '
 starred: false
-url: f-u-e-r-t-e-v-e-n-t-u-r-a-canary-islands/index.html
+url: b-l-o-g/index.html
 _type: Blurb
 
 ---
 # b l o g
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dea089a-087b-49f8-9dd7-65f9ae995814.jpg)
+
+# Rains are here!
+
+After 2 amazingly sunny and crisp fall days, the rains have arrived. 
+
+# Portland, Oregon
+
+Here I am, back in Portland. I've been home for about 2 weeks now and the magic of being here has already started to fade. I feel like I'm in prison, or rather have been sent to a place I no longer belong.
+
+I'm planning my escape. Not sure of the details, but just that it involves getting rid of most of my belongings, which truth be told, feel more like hinderances than comforts these days.
 
 ## F U E R T E V E N T U R A, Canary Islands
 
@@ -60,8 +70,8 @@ On this trip I was once again reminded of how terrible Spanish teens are. In Dub
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43c6b640-fab1-4fca-932f-2e954cfe1355.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ecf21cf-0e42-48de-8d28-482d328484f7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8369103-196e-4be0-8441-f30f2f4b8115.jpg)
-![the burren!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55fcdcef-57a8-4dd5-b6dc-daa18a005dd2.jpg)
-![Beach alter.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b51847b-df2d-4a76-85c0-9c29a669f445.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55fcdcef-57a8-4dd5-b6dc-daa18a005dd2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b51847b-df2d-4a76-85c0-9c29a669f445.jpg)
 
 ## Dublin :: Roastedbrown, or My favorite place to hang out in the 'hood.
 
@@ -131,8 +141,8 @@ We swung by London for a few days (Frank has a work thing). This is my first tim
 My fave part of London is the amazingly delicious and cheap Korean food. I could live on it for the rest of my days without complaint.
 
 All and all, while I enjoyed London, I'm not in love with the city by any means.
-![We took the EuroStar train... long delays and no AC. :(](https://the-grid-user-content.s3-us-west-2.amazonaws.com/29839c45-2fc1-47c7-9e84-7fe566347169.png)
-![The White Sky of London!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a280f4dd-0b0c-4fdc-8f93-5b231bfe738f.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/29839c45-2fc1-47c7-9e84-7fe566347169.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a280f4dd-0b0c-4fdc-8f93-5b231bfe738f.png)
 
 ## G E R M A N Y
 
@@ -184,7 +194,8 @@ Drake is that you?
 Amazing murals. Oslo!!!!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc75b108-a847-4436-9de1-26be7ea9e6bf.jpg)
 
-Cray Chandelier ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbe4ba0a-ab9e-4783-a00b-3c868a1e7626.jpg)
+Cray Chandelier
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbe4ba0a-ab9e-4783-a00b-3c868a1e7626.jpg)
 
 Meow mew mew
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0fde3d1-0584-49ca-9633-f64648bad3d5.jpg)
@@ -197,16 +208,19 @@ THIS IS IT!
 
 I've literally never been so jet lagged. Never again will I suffer a 12 hour layover. I refuse! Or, if I do have to do two red eyes in a row again, this queen is going to have some serious sleeping pills or other fun Rx drugs.
 
-I've been in Paris for a few days, sadly mostly working. I'm glad it's Friday, because I'm gonna get my walk on, see some gardens, art, culture, and eat all the cheese and bread I can. I'm having a relaxing wonderful time. Photos to come! Frank and I were talking and snuggling last night and he helped me remember that I am here. We aren't 5000 miles apart anymore. It's strange how it takes a while to let that sensation settle in and feel normal. We've spent the majority of our relationship away from each other, and I'm glad I have him to remind me to be in the now. Live in the now man. 
+I've been in Paris for a few days, sadly mostly working. I'm glad it's Friday, because I'm gonna get my walk on, see some gardens, art, culture, and eat all the cheese and bread I can. I'm having a relaxing wonderful time. Photos to come! Frank and I were talking and snuggling last night and he helped me remember that I am here. We aren't 5000 miles apart anymore. It's strange how it takes a while to let that sensation settle in and feel normal. We've spent the majority of our relationship away from each other, and I'm glad I have him to remind me to be in the now. Live in the now man.
 
-I love love love the louvre. I want to live here and get lost in the ancient stuff section--- sleep in a sarcophagus and skulk around at night scaring myself with ghost stories and tales of ancient intrigue. Paris is a truly magical place. This visit has been my fave so far and I'm sure I'll be back again. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71efadf7-89d9-471f-9baa-ed170eac4a3b.jpg)
+I love love love the louvre. I want to live here and get lost in the ancient stuff section--- sleep in a sarcophagus and skulk around at night scaring myself with ghost stories and tales of ancient intrigue. Paris is a truly magical place. This visit has been my fave so far and I'm sure I'll be back again.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71efadf7-89d9-471f-9baa-ed170eac4a3b.jpg)
 
 Some delicious shellfish!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08d237d4-7c7c-45af-bd4c-98659089b4d4.jpg)
 
-Frank and I discovered EURO VISION. We're going to go to it next year in Ukraine. That's how much we loved it. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f654e391-0cab-412b-bb1c-cf0c2bf5cedb.jpg)
+Frank and I discovered EURO VISION. We're going to go to it next year in Ukraine. That's how much we loved it.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f654e391-0cab-412b-bb1c-cf0c2bf5cedb.jpg)
 
-Room service! ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4f355d3-6617-44ea-9291-684a9d808e92.jpg)
+Room service!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4f355d3-6617-44ea-9291-684a9d808e92.jpg)
 
 Still haven't been on a ride... What's wrong with me?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2907e7c-199f-46c2-91e4-86a1877ac4c5.jpg)
@@ -217,7 +231,8 @@ We are angles. And we're in louvre!
 Francois' Fave Tea.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a489fec1-a8e6-44bd-a217-098dffbdc32d.jpg)
 
-Tiny Napoleon's Huge Apts. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32e9b860-c65f-4c48-a408-ec6d3647ad06.jpg)
+Tiny Napoleon's Huge Apts.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32e9b860-c65f-4c48-a408-ec6d3647ad06.jpg)
 
 We like each other!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8341b35-7e67-45cc-ae0a-dfdd7e26d6e9.jpg)
