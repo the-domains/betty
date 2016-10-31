@@ -1,4 +1,3 @@
-layout_spectrum: 0.8438116472118562
 typography_spectrum: 1
 color:
   saturation: 0.07469080487146311
@@ -11,13 +10,12 @@ color:
     - '#5E5A59'
     - '#0D0D0D'
   rhythmicContrast: 0.06467562044297556
-coverPrefs:
-  filter: false
 github: true
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.8438116472118562
 analytics:
   twitter: null
   google: UA-78956265-1
@@ -60,6 +58,8 @@ collections:
       number: 10
 title: ''
 content: []
+coverPrefs:
+  filter: false
 description: ''
 purpose:
   - type: internal
